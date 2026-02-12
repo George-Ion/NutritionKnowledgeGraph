@@ -1,0 +1,72 @@
+
+==================================================
+Task 4.1: Recipes with Mango
+==================================================
+                                         Name
+                          Avocado-Mango Salsa
+                       Banana and Mango Bread
+Blackened Swordfish with Tropical Fruit Salsa
+                                 Chaat Masala
+                Charishma's Yummy Mango Halwa
+               Cherry Pecan Carrot Layer Cake
+                                Chicken Curry
+             Chicken with Curried Mango Sauce
+                     Chicken with Mango Salsa
+                       Children's Mango Chaat
+
+==================================================
+Task 4.2: Quick and Healthy Pies
+==================================================
+                                          Name  Time
+                   5-Ingredient Strawberry Pie  PT5M
+                                  Apple Pie #3 PT35M
+                           Apricot Whip Pie #2   nan
+                                Blackberry Pie PT45M
+                             Blackberry Pie II   nan
+                   Blue Mountain Blueberry Pie PT45M
+    Buttermilk Pie With Gingersnap Crumb Crust PT50M
+  Caramel Apple Pie With Crunchy Crumb Topping PT55M
+                                    Cherry Pie PT55M
+Cranberry Apple Pie with Soft Gingersnap Crust   nan
+
+==================================================
+Task 4.3: Chinese Restaurants New Delhi
+==================================================
+              Restaurant
+361 Restaurant & Banquet
+4 on 44 Restaurant & Bar
+                   AOWLS
+    Aashirwad Restaurant
+          Above & Beyond
+        Ada "e" Haandi's
+  Ada e Handi Restaurant
+             Ada'e Handi
+     Adyar Ananda Bhavan
+     Adyar Ananda Bhavan
+
+==================================================
+Task 4.4: Average Cost (Davenport Asian)
+==================================================
+Average_Cost
+         2.0
+
+==================================================
+Task 4.5: Easy Desserts (<300cal)
+==================================================
+                                           Name Calories
+                                   Cookie Icing      0.0
+                           Ice Cream Substitute      0.0
+                          Strawberries Romanoff      0.0
+                              frogs in the pond      0.0
+          Little-Bitty Coffee-Hazelnut Biscotti      8.0
+                       Julie's Chocolate Trifle     10.5
+                               Pumpkin Fritters     13.7
+                           Crystallized Flowers     17.2
+                              Strawberry Coulis     24.7
+Cream Cheese Crosses (icing for Hot Cross Buns)     29.2
+
+==================================================
+Task 4.6: Count of Recipes with Nutrition Information
+==================================================
+count
+ 9674
