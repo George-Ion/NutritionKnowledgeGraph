@@ -1,0 +1,1000 @@
+ReviewId	RecipeId	AuthorId	AuthorName	Review	DateSubmitted	DateModified
+2	992	2008	gayg msft	better than any you can get at a restaurant!	2000-01-25T21:44:00Z	2000-01-25T21:44:00Z
+9	4523	2046	Gay Gilmore ckpt	i think i did something wrong because i could taste the cornstarch in the finished product.	2000-02-25T09:00:00Z	2000-02-25T09:00:00Z
+14	44	2085	Tony Small	An excellent dish.	2000-03-28T12:51:00Z	2000-03-28T12:51:00Z
+21	148	2156	Darlene Blythe	Would someone please check the Nutrition Facts of this recipe.	2000-06-02T10:01:00Z	2000-06-02T10:01:00Z
+22	517	2046	Gay Gilmore ckpt	thought this was terrific!	2000-02-25T09:02:00Z	2000-02-25T09:02:00Z
+23	4684	2046	Gay Gilmore ckpt	this is absolutely delicious.  i even served it with lime slices so you could squeeze on more of the acid.	2000-02-25T09:06:00Z	2000-02-25T09:06:00Z
+25	3431	2046	Gay Gilmore ckpt	leeks on a pizza?!  it was really delicious.  i used a boboli and added some chicken sausage slices and mushrooms too.	2000-04-07T11:06:00Z	2000-04-07T11:06:00Z
+28	1451	2416	jessontanya	Where does the bbq come in 	2000-08-01T19:17:30Z	2000-08-01T19:17:30Z
+33	4053	1986	Kevin Connolly	"""This was a fine sandwich"	 I'll definitely be making it again. I think you could also use blue cheese rather than goat or feta--blue seems to go well with roast beef.	
+""""	2000-08-26T12:35:25Z	2000-08-26T12:35:25Z				
+36	7478	2585	Jennifer Kurzdorfer	"""Very simple recipe to make! This is a refreshing treat that goes well with vanilla ice cream. My husband and I made this dessert disappear fast!"		
+""""	2000-09-05T13:27:34Z	2000-09-05T13:27:34Z				
+42	5466	2059	Moishe Lettvin 1	Dear lord.	2000-10-18T11:31:40Z	2000-10-18T11:31:40Z
+Eli Totz						
+""""	2000-09-11T09:54:42Z	2000-09-11T09:54:42Z				
+44	8433	2625	Eli Totz	"""Clearly"	        	
+a nine shot drink deserves at least five stars.  Stiff	" baby!"""	2000-09-11T09:54:51Z	2000-09-11T09:54:51Z			
+45	471	2625	Eli Totz	I never tasted it but it sure doesn''t look easy.  Toast is easy.	2000-10-18T11:35:01Z	2000-10-18T11:35:01Z
+46	7226	2594	Catherine Allison	"""This recipe was really easy to follow and was quite delicious.  It reheats really well"	 too	 for small families.  
+I think next time I will buy the crust	 as mine needed a little more polishing.					
+Thanks for the recipe!						
+""""	2000-09-12T22:49:08Z	2000-09-12T22:49:08Z				
+47	780	2312	Gay Gilmore	"""This was delicious."		
+""""	2000-09-12T22:49:36Z	2000-09-12T22:49:36Z				
+48	3338	2536	Warangkana Krosuwan	""""		
+""""	2000-09-12T22:49:52Z	2000-09-12T22:49:52Z				
+49	2388	2033	Sandy Zikursh	"""My husbands Aunt Dorothy made the best dumpling and gravy.  She always used left-over mashed potatoes in hers and I thought they were great.  This recipe is as close as I have ever found to hers.  They are delicious with pork or beef gravy and in stew.  Yummy!  Brings back fond memories and as she was a cook that never used a recipe until now we could not fiqure out how to make one of our family favorites.  Sandy Zikursh"	Mentor	Oh
+""""	2000-09-20T13:56:46Z	2000-09-20T13:56:46Z				
+50	1078	2639	Elisabeth Summers	"""Your recipe was wonderful"	 it all fit together so well.  Very Yummy...thanks	  Elisabeth Summers
+""""	2000-09-20T14:09:06Z	2000-09-20T14:09:06Z				
+53	51964	2312	Gay Gilmore	"""This dish was lovely.  All my guests complimented it."		
+""""	2000-09-26T21:19:02Z	2000-09-26T21:19:02Z				
+54	8476	2509	CAROLYN INCH	"""I made this recipe for 16 coworkers.  I doubled the amounts of the ingrediants hoping to get 4 loaves.  I only got 3 loaaves and the batter was hard to stir when it came to adding the walnuts and apples.  The end result was excellent and the bread was consumed in a matter of minutes.  Everybody loved the bread but they love it when anybody brings in homemade snacks.  I was very happy with the taste of the bread."		
+""""	2000-10-05T17:40:36Z	2000-10-05T17:40:36Z				
+55	7762	2369	William Hakala	"""They taste better than they appear."		
+""""	2000-10-05T17:40:41Z	2000-10-05T17:40:41Z				
+56	5277	2811	Barbara Drew	"""This recipe was excellant - enjoyed it very much"		
+THANKS !!!!!!!!!!						
+""""	2000-10-05T17:40:46Z	2000-10-05T17:40:46Z				
+59	7205	2178	troyh	I think I cooked the chicken too long so the breadcrumb mixture became a little too crispy. Be careful. I'd also increase the ratio of seasonings to chicken as I used a little less than was specified and had just enough mixture to cover the chicken.	2000-10-06T12:20:48Z	2000-10-06T12:20:48Z
+61	5434	2848	Jeff Lucco	"""This recipe is very good.  I recently been carfully watching my Cholesterol and modified it slightly.  This is what I changed and it reduce the cholesterol content to 0."		
+1/2 C soy milk in place of the 1/2 C milk.						
+1/2 C Egg Beaters in place of the 2 eggs.						
+"1/4 C """"I can't believe it's not Butter"""" in place of Butter."						
+And not that it would make a difference but I baked it in a stoneware loaf pan and it came out beautiful.  Very Good!  						
+""""	2000-10-09T12:34:31Z	2000-10-09T12:34:31Z				
+66	3862	2312	Gay Gilmore	I added curry powder to jazz them up.	2000-10-18T11:33:20Z	2000-10-18T11:33:20Z
+67	4397	2312	Gay Gilmore	"""Everyone loves it."		
+""""	2000-10-17T14:59:07Z	2000-10-17T14:59:07Z				
+71	1232	2312	Gay Gilmore	"""It was good"	 it just tasted a little too tomatoey for me I think.	
+""""	2000-10-17T15:02:37Z	2000-10-17T15:02:37Z				
+73	2502	2848	Jeff Lucco	"""Unusual name for a recipe that has no pumpkin in it.  There are no amounts shown for the pumpkin."		
+""""	2000-10-17T15:03:25Z	2000-10-17T15:03:25Z				
+""""	2000-10-18T10:33:20Z	2000-10-18T10:33:20Z				
+76	100	2369	William Hakala	It is a good recipe...but I believe that it would be better if it had raisins included  :)	2000-10-20T14:04:14Z	2000-10-20T14:04:14Z
+77	3567	2999	ElaineStarr	"""I have made this pie instead of plain ol' pumpkin pie for the last 7 years.  Everyone always raves about it.  The flavor is wonderful and the texture is slightly lighter than traditional pumpin pie"	 I suspect due to the substitution of light cream instead of canned milk.  	
+If you try this	" you won't go back to plain ol' pumkin again!"""	2000-10-23T10:24:49Z	2000-10-23T10:24:49Z			
+83	3704	2178	troyh	Careful not to cook it too long... you want the tuna to be closer to raw on the inside and crusty on the outside. Maybe use canola oil instead of butter to help sear the outside.	2000-10-30T11:12:23Z	2000-10-30T11:12:23Z
+84	153	3114	Susan Scannapieco	Took about 70 minutes to bake.	2000-10-30T11:13:29Z	2000-10-30T11:13:29Z
+85	3560	2211	Bertie	These have been an absolute hit with everyone every time I have made them.  They are incredibly easy to make and just heavenly!	2000-12-08T10:23:30Z	2000-12-08T10:23:30Z
+87	8445	3090	pyppylover25	I think this recipie is awesome. It tastes delicious and my whole family loved it.	2000-10-30T11:18:58Z	2000-10-30T11:18:58Z
+90	8497	2926	izabel72	quite easy to make make the taste is not bad either. i'd love to make it again and again with different toppings.	2000-11-04T09:05:44Z	2000-11-04T09:05:44Z
+92	1600	2447	C.L. Miller	These make a wonderful healthy snack.	2000-11-04T09:06:47Z	2000-11-04T09:06:47Z
+95	468	3125	Preeti De	It's a tasty dish.	2000-11-04T09:10:24Z	2000-11-04T09:10:24Z
+97	6576	3201	lekkere_laarzen	"""This is a great dish. I like to make it. It's not fat and very healthy. Lots of iron because of the spinach. "		
+The recipe is also known as Palak Gosht. Love it.						
+"Helen v.d. Sluijs - Holland"""	2000-11-06T09:51:17Z	2000-11-06T09:51:17Z				
+"Add 1/4 - 1/2 cup sour cream right before serving for a creamier and richer sauce."""	2000-11-06T09:51:33Z	2000-11-06T09:51:33Z				
+99	1857	3241	JUDITH WEBER	"""This greek chicken and rice recipes was so easy to prepare and very good.  I realize you have 50 greek meals but greek food is very good."		
+Thank you						
+"exercise judy"""	2000-11-08T12:40:37Z	2000-11-08T12:40:37Z				
+101	288	3228	Christine Fisher	tasty. you can substitute granulated sugar for the palm sugar.	2000-11-08T12:40:46Z	2000-11-08T12:40:46Z
+109	2505	3287	Amy Hayes	Terrible directions. Doesn't say how to make the dough or the filling.	2000-11-12T00:13:31Z	2000-11-12T00:13:31Z
+111	480	3074	dave moore	needs more spice.	2000-11-12T14:25:08Z	2000-11-12T14:25:08Z
+114	2521	3339	chalet hull	My husband LOVES this stuff.  It was the only thing he requested I make for Thanksgiving. The recipe is easy and if it makes him happy I'll keep making it.	2000-11-14T18:04:23Z	2000-11-14T18:04:23Z
+115	7695	3333	Mike Gray	Not much Effort.	2000-11-14T18:04:54Z	2000-11-14T18:04:54Z
+116	4167	2065	Shirley McBride	This is the best pie crust I have ever made.  It is simple and easy.  I have tried to make it fail but can not.  The taste and texture is wonderful.	2000-11-17T09:55:13Z	2000-11-17T09:55:13Z
+117	536	2205	fatpatscafe	"""Our family has enjoyed this recipe"	 time and time again with great success. Favorite topping for this is to serve with chili	 grated cheese and onions. The kids love it simply with catsup. 
+"Either way this dish is a MAJOR favorite of our family. Great also for the kids who are learning to cook."""	2000-11-17T09:55:24Z	2000-11-17T09:55:24Z				
+125	3470	3385	Fauna	This dish was good the first few bites then it got a vinager taste. I wont make it again	2000-11-20T10:29:52Z	2000-11-20T10:29:52Z
+127	4764	3460	Stephanie nicholson	"""This is a great quick"	easy	tasy cheescake.
+the hardest thing about it is waiting for it to cool. Yum!						
+"Jinx"""	2000-11-20T10:30:23Z	2000-11-20T10:30:23Z				
+129	4491	3414	donna gazda	A lot of people at our baby shower said how much they liked this punch.  Even one person said that they didn't like champagne but they loved this punch.  It had a nice fruity flavor and pretty color.  This one will go in my recipe file.  I couldn't find the frozen pineapple-orange-guava juice so I went with pineapple-orange.  Thanks for this wonderful recipe that was definitely a hit!	2000-11-20T10:31:33Z	2000-11-20T10:31:33Z
+131	4650	3518	Don Waldron	Will go great with Thangsgiving meal.	2000-11-22T10:16:53Z	2000-11-22T10:16:53Z
+132	4649	3518	Don Waldron	Simple and easy to prepare.	2000-11-22T10:17:14Z	2000-11-22T10:17:14Z
+133	5158	3514	steve moser	she loved it	2000-11-22T10:17:31Z	2000-11-22T10:17:31Z
+"The pan size that worked for me was 9"""" by 9"""". The recipe did not specify"""	2000-11-22T18:53:21Z	2000-11-22T18:53:21Z				
+135	4367	3575	Lynn Walters	"""Thanks for giving recipes for such good food.  You saved my thanksgiving.  My sister-in-laws and I are cooking dinner this year for thanksgiving.  All of the older ladies have all died so it is up to us to get everyones belly full.  Cooking for a big family requires lots of food.  Good food.  I am a good cook but some of the things I was asked to cook I have never cooked before.  I needed help!!!  And thanks to this wonderful site on my computer I got all the help I needed.  I used many recipes and am very pleased with the outcome.  The lightened green bean casserole was my favorite.  All the other recipes I found other places where all very common.  I suggest to everyone"	 if you have not tried this you really need to.  It is very delicious.  And also very good for you.  Thanks again for my wonderful thanksgiving dinner.	
+Your devoted cook						
+"lynn"""	2000-11-22T18:54:24Z	2000-11-22T18:54:24Z				
+138	4048	3504	Christina Branscm	makes 2- 9inch pies  or 1 deep dish pie	2000-11-23T13:00:07Z	2000-11-23T13:00:07Z
+139	5365	3578	Jenny Sheriff	I recently tried this recipe and got rave reviews from family and friends!	2000-11-23T13:00:22Z	2000-11-23T13:00:22Z
+141	8213	3535	Jacqueline Mallen	Where's the Nutmeg And the Cinnamon?	2000-11-23T13:02:50Z	2000-11-23T13:02:50Z
+142	3360	3601	neville aga	My wife made this recipie for Thanksgiving today and the whole family agreed it was the best food on the whole table.	2000-11-24T05:23:38Z	2000-11-24T05:23:38Z
+147	1485	3625	David Cansler	Excellent and great tasting.  Easy prep!!!!! My guest loved it!   :-)	2000-11-27T09:02:17Z	2000-11-27T09:02:17Z
+148	4135	3622	Sideshow Mel	Onions and whiskey overpowered the sauce.  Not at all similar to TGI Friday's mariande.	2000-11-27T09:02:36Z	2000-11-27T09:02:36Z
+150	2637	3619	JAEN RUPPRECHT	very good   made it with and without the vodka	2000-11-27T13:30:14Z	2000-11-27T13:30:14Z
+161	3516	3484	lorenzz	"""This is a great recipe I made it for my family soon it will be served in my restaurants."		
+"Lauren"""	2000-11-29T13:08:17Z	2000-11-29T13:08:17Z				
+163	4312	3762	Jackie Garner	I thought this recipe was very quick and easy and delicious. I made at Thanksgiving for my family and they really enjoyed it.  I'm making it again for some friends at work.	2000-12-04T10:53:39Z	2000-12-04T10:53:39Z
+167	6567	3735	Craig Courtney	"""It was A great recipe but I did not use the apples"		
+"& I added chopped bacon saute mushrooms."""	2000-12-04T11:01:56Z	2000-12-04T11:01:56Z				
+168	397	3737	Diane Perry	I have baked these biscotti before and they are excellent.  I'm so glad I could find the recipe again.	2000-12-04T11:02:06Z	2000-12-04T11:02:06Z
+169	5365	3733	julie carlson	This is a very tasty cake--my recipe calls for sprinkling the batter with 1/2 cup chopped nuts before baking--Delicious!!	2000-12-04T11:03:12Z	2000-12-04T11:03:12Z
+170	607	3731	Wei-Li Eastlake	"""The French Onion soup recipe is one of the most popular dish served at the Famous Barr (also part of the May Dept store group) restaurants found in St.Louis.   Based on my travels to the various countries including Europe"	 Asia and US	 this version of French Onion soup is one of the best I've had. My husband who is from London just loves this recipe.
+It is robust and hearty in beef and onion flavour and quite thick so you can enjoy this as a meal in itself (you might say it's great comfort food).  Be sure to use the broiler until the cheese bubbles and turns golden brown over the French bread. Tip: Try to use the fresh French bread which is a bit chewy in texture.    						
+"Bon Appetit."""	2000-12-04T11:05:09Z	2000-12-04T11:05:09Z				
+171	8320	3711	Donna Skelly	My grandma has been making this simple coffee cake for years.  It is a huge favorite for the whole family!  We add chopped pecans to ours.  Really easy for overnight company.  It rises overnight and you pop it in the oven before everyone gets up.	2000-12-04T11:05:19Z	2000-12-04T11:05:19Z
+173	246	3385	Fauna	This taste great!!!!!! Even my 3yr. old loved it	2000-12-05T14:03:45Z	2000-12-05T14:03:45Z
+174	2985	3794	Sally Wolfe	Everyone loved it. I have made it up twice in one week.  I put it up in the freezer in individual servings.	2000-12-06T10:47:09Z	2000-12-06T10:47:09Z
+"  We used 12oz frozen can of pink lemonade instead of the pineaple juice?"""	2000-12-06T10:47:16Z	2000-12-06T10:47:16Z				
+Thank you this will be great						
+"Grannymj0"""	2000-12-08T10:23:45Z	2000-12-08T10:23:45Z				
+179	5314	3824	Grannymj0 Breaux	"""Fantastic"		
+You have really made my day and my Christmas presents easier. Thank you						
+"Grannymj0"""	2000-12-08T10:23:53Z	2000-12-08T10:23:53Z				
+181	5158	3775	B Dawdy	Ok	2000-12-11T10:58:41Z	2000-12-11T10:58:41Z
+183	3201	3880	Gail Thombley	This is a wonderful holiday bread.  I make it every year and give some of the loaves to my close friends and neighbors who look forward to this special treat.  It is especially delicious served with a hot cup of Christmas tea.	2000-12-11T10:59:29Z	2000-12-11T10:59:29Z
+185	8468	2525	Nine 12 fingers	I''m really happy to read so many people are enjoying my Mothers recipe for cucumber salad. She would be absolutely thrilled. Thanks you so much. ENJOY.	2001-11-29T14:04:53Z	2001-11-29T14:04:53Z
+188	3137	3844	MUIREANN ODUNLAING	the finished product is excellent.	2000-12-11T11:17:30Z	2000-12-11T11:17:30Z
+190	552	3894	Kathy Brown	Very unique & since garlic is my favorite ingredient...i love it!	2000-12-11T19:19:00Z	2000-12-11T19:19:00Z
+193	8161	3855	Er Be3	"""Flavorless and bad."		
+I fortunately	" saved it by looking at another recipe for Caldillo on this site and and adding some of the ingredients listed there."""	2000-12-13T09:12:08Z	2000-12-13T09:12:08Z			
+194	8278	3912	rachel hemenway	"""I love this recipe!! I use chopped peacons for the nuts. This recipe is absolutely a must try!!"		
+"These cookies homemade are much better than the store brand."""	2000-12-13T09:12:14Z	2000-12-13T09:12:14Z				
+195	3448	3907	Stefanie Baer	"""I live on the Oregon coast and met and fell in love with a wonderful man from cinncinnati."		
+"I had to look a long time for this recipe -We absolutly love it!!"""	2000-12-13T09:13:17Z	2000-12-13T09:13:17Z				
+196	2086	3908	Jodi Chisolm	I heard about this fudge this morning..looked up the recipe and made it..it is great..so easy and the best fudge I've ever eaten.	2000-12-13T09:13:29Z	2000-12-13T09:13:29Z
+197	8521	2525	Nine 12 fingers	"""Rum Flavoring"	 might have been her way of saying 100 proof Rum.	
+Glazed fruit	" is the dried glazed fruit you can buy in 1 lb increment at any supermarket during the holidays"""	2000-12-13T09:13:59Z	2000-12-13T09:13:59Z			
+201	3525	3794	Sally Wolfe	This was easy to make and handy to have in the freezer ready to just bake. I will have to learn to cut it down into four serving sizes though. It was to much just for my husband and I. I also added ground beef to mine. It tasted really good.	2000-12-15T11:04:40Z	2000-12-15T11:04:40Z
+204	6812	3989	clyde poole	Very good and really easy!!!	2000-12-18T11:05:40Z	2000-12-18T11:05:40Z
+208	3923	4031	Bonnie Rabon	This is a great recipe... make ahead and broil before serving. My friends love this.	2000-12-19T09:43:18Z	2000-12-19T09:43:18Z
+209	3596	3794	Sally Wolfe	I made a double batch of this soup and added a medium onion and two cloves of garlic. It was easy and I thought it was really great. Of coarse potato soup is my favorite and this was the best that I have ever made. I am going to put in individual servings and freeze.	2000-12-19T09:43:37Z	2000-12-19T09:43:37Z
+211	7154	4025	charann foster	I love this soup it was great.  i would love to try to make it again some time to have.  I did tell all my friends about it and they loved it too.  ao to eveyone this is the best soup try it too.	2000-12-19T09:44:32Z	2000-12-19T09:44:32Z
+213	5466	4024	Marilyn Spiegel	This recipe sounds interesting except what is the brine made of?	2000-12-19T10:11:07Z	2000-12-19T10:11:07Z
+216	2086	4046	Jill Thomason	This recipe is so versatile!  I've made it minty with flavoring. I've used nuts and marshmellows for a rocky road fudge.	2000-12-20T09:13:38Z	2000-12-20T09:13:38Z
+217	4725	2369	William Hakala	"""3 medium onions made a very tasty part of a meal for 3 persons. The recipe ingredients reads """"20 butter"""" and """"onions"""" but doesn't say  how many.  I used about a 1/2 C. butter and 3 medium onions & it worked out fine and the cooking time seemed to be the right time.  3 med. onions would serve 4 people. They would be really yummy atop a thick juicy filet mignon! In fact"	 I believe that this recipe could be included with a large number of meals of various types.	
+""""	2000-12-20T09:13:51Z	2000-12-20T09:13:51Z				
+223	607	4150	Dean J Owens	Absolutely Delightful Recipe! Rich and Flavorful!	2000-12-25T15:13:18Z	2000-12-25T15:13:18Z
+224	7141	4122	mark hoover	this is a traditional dish my family has enjoyed on christmas eve for over 30 years. my mother passed away 2 years ago and it fell to me to keep the tradition going. i needed to recheck my memory and had a hard time finding this till i came across your site. many thanks and merry christmas	2000-12-25T15:13:43Z	2000-12-25T15:13:43Z
+225	4829	4017	Sonja Canas	My daughter and I made this bread over Christmas and it was wonderful.  We left out the fruit--the bread lasted almost one day--the aroma was awesome!!! Everyone that came by the day we were baking our Christmas goodies wanted to stick around until THAT bread was done.  We have already made another loaf.  Thanks for a great recipe.	2000-12-27T13:36:00Z	2000-12-27T13:36:00Z
+226	4560	4017	Sonja Canas	There is no temperature given for baking these bars.	2000-12-27T13:36:48Z	2000-12-27T13:36:48Z
+230	7585	4169	Terry Militello	"""This is a very good basic recipe and I just thought I would add the variation that I took.  It being the day after Christmas I had a ham bone I needed to use and my son wanted lentil soup.  I just wanted to make something a little different so I surfed the web until I found this one that was nice and basic but I added the ham bone and skipped the hot dogs"	 added two potatoes and a can of diced tomatoes to make a very delicious soup.  Thanks for the basics	
+"Terry"""	2000-12-27T13:38:55Z	2000-12-27T13:38:55Z				
+232	211	4148	Sandra Jones	"""What a joy finding this recipe. I didn't want just another cranberry recipe.  I rate this recipe a solid 5 because:  Ease of finding the products to make it"	 minimal preparation time and the final results of all who enjoyed it : )	
+I utilized fresh cranberries	 red seedless grapes	" and braeburn apples with fresh made whipped cream (i chopped fresh pecans on the side for those who would like to add some to their serving).  This dish was smashing with prime rib.  Joyeux Noel.....Sandra"""	2000-12-27T13:39:47Z			
+233	4717	4141	judy striegel	I've fixed this pie before and lost receipe thank you for reprinting it...	2000-12-27T13:40:32Z	2000-12-27T13:40:32Z
+234	480	4036	Gary W G	very good!!!	2000-12-27T13:40:38Z	2000-12-27T13:40:38Z
+235	2425	4166	Sherry Liess	We had these for Christmas dinner and they are great. I added a 1/2 tsp. or cinnamon and placed a whole walnut on each Ball. Easy and fast and they were a hit	2000-12-27T13:43:08Z	2000-12-27T13:43:08Z
+238	8430	4099	Barbara Scheihing	Thank you for providing this recipe.  I'll let you know how the customer liked it.	2000-12-27T13:48:40Z	2000-12-27T13:48:40Z
+240	3089	4091	Dutchas Phiffer	I was expecting a simplistic recipe but instead was provided a recipe with ingredients that I have never heard of (Gruyere Cheese) and measurement values that require research (150 ml of milk).  I think the consideration should be made for those of us who are new to this internet age and they should keep in mind that the cookers of the household are middle aged women who are use to regular methods of measurement.	2000-12-27T15:35:37Z	2000-12-27T15:35:37Z
+241	4080	4272	Laurie Haskins	It is like rubber.	2001-01-02T16:15:04Z	2001-01-02T16:15:04Z
+242	5208	4287	Regina Oldbury	This is the recipe I have used for many years.  It is so yummy.  It is easy to make and a treat to eat.  It is good for every day type bread and wonderful to give as a gift.  It is a favorite of my family.	2001-01-02T16:15:17Z	2001-01-02T16:15:17Z
+247	585	4262	Gordon Chivers	"""This was an easy recipe to make."		
+I used olive oil instead of drippings Health reason only)						
+The seasonings were quarter teaspoon cummin	pinch dried thyme.					
+" It has an acceptable taste"""	2001-01-02T16:17:20Z	2001-01-02T16:17:20Z				
+249	5194	4244	Danny Bennett	I doubled this recipe for Christmas dinner 2000 and everyone came back for 2nd's and some even for 3rd's.   Very easy to make.  I increased the cooking time to 60 min's and put a extra cheese on top for the last 15 min. uncovered for a nice crust of baked cheese.	2001-01-02T16:18:34Z	2001-01-02T16:18:34Z
+251	397	1566	Stephen Little	Try dipping or coating one side with some good chocolate... even better!!!	2001-01-02T16:30:30Z	2001-01-02T16:30:30Z
+252	3900	3962	Erna House	The recipe did not say to drain the juice from the pineapple and mandarin oranges and therefore it was very soupy!	2001-01-02T16:30:57Z	2001-01-02T16:30:57Z
+259	6793	4309	Beverly Kaplan	This recipe was easily adapted as a sugar free recipe--substituting Nutrisweet for sugar--My diabetic husband loved it--Thank-you	2001-01-03T17:38:40Z	2001-01-03T17:38:40Z
+262	2933	4335	Tiina	great recipe its delicious	2001-01-05T16:03:37Z	2001-01-05T16:03:37Z
+264	8008	4340	Doug Thompson	"""Concerning handling chili peppers"	 it really is unnecessary to use gloves.	
+"What I have done for years is wash my hands with a small amount of liquid dishwashing detergent and water immediately after handling the peppers.  This technique has never failed to remove the capsaicin-bearing oil.  Regular hand soaps are not designed to remove oil and grease in the same manner as detergents and are definitely not as effective in this application."""	2001-01-05T16:04:20Z	2001-01-05T16:04:20Z				
+267	4429	4317	Kay Abbott	This is a traditional way of making english bread pudding - but i live in Texas - does anyone know what they call suet in Texas? someone told me they only use it for birdseed???	2001-01-05T16:07:06Z	2001-01-05T16:07:06Z
+273	2897	4043	LUANA MOURA	It was totally tasty dudes	2001-01-05T16:21:52Z	2001-01-05T16:21:52Z
+278	5194	4398	Phillips Steve	I substituted the green bell pepper with red and it was wonderful.	2001-01-08T11:00:00Z	2001-01-08T11:00:00Z
+279	640	4384	Linata Charles	Another great way to make this recipe is to put all the ingredients inside the flattened biscuit and then deep fry them this is a real pleaser any time in my house. This recipe is very easy and fun to make I hope to find some more fun recioes soon!	2001-01-08T11:13:27Z	2001-01-08T11:13:27Z
+280	8468	4276	Pamela Cobb	This dish has been in homes across the south for as long as I can remember. Sometimes a little onion is added to the mixture. Goes great with any meal.	2001-01-08T11:15:36Z	2001-01-08T11:15:36Z
+281	930	4374	dana graves	Very simple to make. there were no strange ingredents or a big mess. taste justlike my moms. very down home	2001-01-08T11:52:16Z	2001-01-08T11:52:16Z
+283	4829	4395	carol kowalchuk	I believe there is a mistake in the amount of eggnog listed in this recipe...5 1/2 cups is too much and the batter overflows a 9x5	2001-01-10T14:48:39Z	2001-01-10T14:48:39Z
+288	545	4268	Cherie Plaisted	Outstanding	2001-01-16T11:26:42Z	2001-01-16T11:26:42Z
+296	4688	4455	Nancy Anderson	"""I need to try this.....This is typical recipe from my Mother's side of the family. """"use this much"""" i can not see this much on the phone."""	2001-01-16T11:02:56Z	2001-01-16T11:02:56Z
+297	2892	4807	suzie dunn	This was a very refreshing salad. It''s not time consuming and ingredients were simple. My husband and I are enjoying eating lighter and healthier meals and this one is excellent! Thank You...	2001-01-16T11:13:54Z	2001-01-16T11:13:54Z
+300	8322	4684	Catherine Gray-Remes	Thai soup without lemon grass??....don't think so	2001-01-16T11:04:33Z	2001-01-16T11:04:33Z
+302	4561	4524	andy bryan	wasn't that bad ??????? why do the always make the chicken so big in the market place.	2001-01-16T11:05:39Z	2001-01-16T11:05:39Z
+303	481	4524	andy bryan	It was a great dish my family loved it I couldn't make as much as I wanted to but I got it finished	2001-01-16T11:07:33Z	2001-01-16T11:07:33Z
+307	671	4828	Gail P Smith	"""I finally found the recipe for """"Chow Chow Pickles""""."		
+"This is an old fashioned southern recipe and the only ingredient missing are peppers. Thank you so much as I have searched the Internet in every Search Engine and nobody had this recipe. (Although I did not look for """"Cucumber Relish"""")"""	2001-01-16T11:11:19Z	2001-01-16T11:11:19Z				
+310	780	5012	Larry Anderson	Very good but not a 5 star	2001-01-16T11:17:36Z	2001-01-16T11:17:36Z
+311	552	4954	Roland J. Darby Sr.	Very good receipe. The taste is great!	2001-01-16T11:17:56Z	2001-01-16T11:17:56Z
+312	542	5028	Bill Marin	"""Hello"	 	
+My wife makes a version of this	" only using the whole chicken breast. Another idea- you can use crushed Ritz type crackers and grated parmesean cheese combined to get the same result."""	2001-01-16T11:18:20Z	2001-01-16T11:18:20Z			
+314	3596	5049	Cynthia Caffey Schw	I replaced the cheese with about 1 cup of finely chopped ham; replaced 2 cups milk for 2 cups half and half; added 1/2 cup finely chopped onion; added 2 cloves of minced garlic; doubled the pepper.  It turned out wonderful!  It is so easy and took me less than an hour.  It made about 4 quarts.	2001-01-16T11:19:24Z	2001-01-16T11:19:24Z
+318	198	5067	Lowel Goss	Great recipe for anyone who like it as close as it come to the real thing! Very simple to make and you can find all the ingredents in your local supermarket! I myself would cut back on the white pepper and add a little bit of hot oil (not to much)! I would also add about 1 1/2 tbls more of vineger. (or to taste) add a little more meat and you can serve with a bowl of white rice with steamed veggies for a meal of its own.	2001-01-16T11:21:50Z	2001-01-16T11:21:50Z
+325	8463	5014	Shelly Head	This recipe was simple to make and easy to convert to serve more people.  I like the fact that the ingredients are those usually found in someones pantry and that preparation time was 10 minutes or less to combine and could be left alone in the oven to cook.  Wish all recipes were this easy and delicious.  I will definetly add this to my keeper list.	2001-01-16T11:26:17Z	2001-01-16T11:26:17Z
+327	4117	4867	Linda Stolz	"""I have to rate this one highly"	 since I am the author!  I have found it quite funny to watch how this recipe has flown around the world.  	
+"I sure wish I had done a better job of typing it out!"""	2001-01-16T15:57:00Z	2001-01-16T15:57:00Z				
+329	5283	2070	Margie Greenberg	This bread is absolutely delicious and so easy.It's a new family favorite. We even enjoyed it for breakfast. Thanks	2001-01-18T09:38:49Z	2001-01-18T09:38:49Z
+330	5365	5126	Teresa Messick	"""This is a real good cake But I use 1 tsp. of ginger also."		
+"Tree:)"""	2001-01-18T09:39:00Z	2001-01-18T09:39:00Z				
+331	8457	5148	R Schlei	A fantastic version - very fragrant and complex taste.  Highly recommended for those who like spicy eggplant.	2001-01-18T09:39:37Z	2001-01-18T09:39:37Z
+332	350	2695	Hungarian Gypsy	This recipe needs a little help !	2001-01-19T16:38:34Z	2001-01-19T16:38:34Z
+335	12134	2695	Hungarian Gypsy	This dish was excellent.  The sauce turned out wonderful and was an excellent choice for the pork chops !	2001-01-19T16:40:14Z	2001-01-19T16:40:14Z
+336	8417	4564	mary sharp	this is wonderful very easy but i used cooked pudding. has more lemon pie taste	2001-01-19T16:40:26Z	2001-01-19T16:40:26Z
+338	8515	5199	Karen Fink	I think this was the most awfulest punch I have ever tasted hope someone else has better luck!!!!!	2001-01-19T16:41:26Z	2001-01-19T16:41:26Z
+344	3811	5280	Anita Novotny	This casserole was very tasty but a little time consuming to prepare. Next time I know we are going to have this dish (and we definitally will be having it again) I will do the prep work ahead of time.	2001-01-22T14:01:09Z	2001-01-22T14:01:09Z
+349	4545	5328	Janie Woodall	I used Cream of chicken instead of mushroom and it was wonderful !!! My whole family loved it !!	2001-01-22T14:02:55Z	2001-01-22T14:02:55Z
+351	4213	4884	Carmen	Baklava is in fact Greek..I moved from Greece a little over 3 years ago and therefore your feeble-minded Turkish opinion means nothing.	2001-01-22T14:25:00Z	2001-01-22T14:25:00Z
+352	198	5227	rhonda lambert	my family like the bamboo shoots whole. but we love your recipe	2001-01-23T10:31:57Z	2001-01-23T10:31:57Z
+353	1387	5227	rhonda lambert	the lemon rind made it tastier. great recipe	2001-01-23T10:32:35Z	2001-01-23T10:32:35Z
+355	3596	3858	Vicki Summers	No kidding - stir almost constantly. We really liked it. Warmed well in the microwave.	2001-01-23T10:33:12Z	2001-01-23T10:33:12Z
+364	2551	5090	Marcia Detrick	Just the type recipe I came to this site for. I am going to take this to a Super Bowl party on Sunday	2001-01-27T13:47:42Z	2001-01-27T13:47:42Z
+367	6975	5398	gary gierloff	if you love clams and garlic you will love this recipe. I plan to make large quanties for the upcoming superbowl party at the hitchin post in salem oregon.go ravens. 	2001-01-27T13:48:45Z	2001-01-27T13:48:45Z
+370	8531	5385	Cristina Stanfill	"""Be aware that this is the EXACT recipe that is printed in the booklet that comes with a new crockpot."		
+It's easy enough	 but they call for too much flour	 it's a little pasty-tasting to me.  Luckily	 I made a test batch before I cooked for guests or I would have been embarrassed.  			
+"Cut the flour amount down to about 1/2 and add more pepper.  I've found that browning the beef first seals it and makes it taste better."""	2001-01-27T13:49:49Z	2001-01-27T13:49:49Z				
+373	2717	5461	Sarah Stluka	This casserole is the best I have ever had.  My grandmother makes it for Christmas every year and I just had to have the recipe.	2001-01-29T15:55:02Z	2001-01-29T15:55:02Z
+374	1559	5049	Cynthia Caffey Schw	This is easy and very good.  Our family loved it.	2001-01-29T15:55:11Z	2001-01-29T15:55:11Z
+376	190	1773	Malarkey Test	this was okay.  too greasy for my tastes.	2001-01-29T15:55:46Z	2001-01-29T15:55:46Z
+377	7303	4105	Bill de Bruler	I would rate this one a five-star if the hot pepper flakes were omitted. I would omit the hot pepper flakes and use 3 cans of tomatoes and add 1 can of tomato and green chile's. Also for the next time I prepare the recipe I will devein and shell the shrimp then sprinkle cajun spice mix and let the shrimp marinate in it. If anyone attempts this recipe and uses 1/4 cup of the hot pepper flakes you will probably not be able to eat it if you cannot handle hot and spicy food. Believe me I am an amateur Cajun Chef and I could eat the dish but most people could not handle it. I will make this dish because it is rather quick and it is a one dish meal. I will however change it as stated in the beginning of this comment/rating.	2001-01-29T15:56:29Z	2001-01-29T15:56:29Z
+379	531	3856	jonathan armytage	average taste. Not particularly subtle	2001-01-29T15:57:26Z	2001-01-29T15:57:26Z
+383	7220	5235	LJ S3213	"""absolutely fabulous"	 received high praise from family members.	
+"Very easy to prepare."""	2001-02-01T18:27:51Z	2001-02-01T18:27:51Z				
+384	8566	5355	Rena Reeve	I recommend this recipe because I've eaten these muffins many times.  These muffins taste great heated in the micro and then covered with natural applesauce.  A little cinnamon sugar on top makes it the perfect breakfast treat!	2001-02-01T18:28:01Z	2001-02-01T18:28:01Z
+Deidre Gilbert						
+Calgary	 Alberta	" Canada"""	2001-02-01T18:29:28Z			
+388	4550	5495	annaclaire crocco	great when sprinkled with grated parmasaen cheese just before serving!	2001-02-01T18:30:05Z	2001-02-01T18:30:05Z
+389	649	1773	Malarkey Test	interesting. i added celery and some cilantro.  i think i made it a bit too hot though.	2001-02-01T18:30:59Z	2001-02-01T18:30:59Z
+390	3844	5503	Jules Yoken	Sounds a bit like Bigos	2001-02-01T18:32:18Z	2001-02-01T18:32:18Z
+392	198	5519	amity bradley	"""My boyfriend and i were very pleased with this recipe. he is half chinese so he knows the good stuff. the only thing we changed was the amount of chili paste. we only put one tablespoon instead of 2. the soup is very very spicy with 2 tblsp's. other than that it was great. the flavor is awesome. my boyfriend said that it tasted just like his mom's. that is a great compliment."		
+"amity"""	2001-02-01T18:34:16Z	2001-02-01T18:34:16Z				
+393	3423	5528	linda mindrum	this recipie is one of the best and easiest i have used. It really does taste like a mounds bar. Fast and easy and the kids will love them as much as you do.	2001-02-01T18:34:30Z	2001-02-01T18:34:30Z
+394	7695	5523	Dave C	I agree.	2001-02-01T18:35:39Z	2001-02-01T18:35:39Z
+396	2713	5523	Dave C	Good one even for cold nights in Toronto.	2001-02-01T18:37:13Z	2001-02-01T18:37:13Z
+399	8573	5609	Tammie Hertrich	"""I have tried these meatballs and they are to die for. If you like sweedish meatballs than this is the recipe for you. Im sure you won't be disappointed."		
+Tammie Hertrich						
+Ottawa	" Canada"""	2001-02-04T20:33:02Z	2001-02-04T20:33:02Z			
+404	4395	5607	Jeanmarie Pope	This would be better with real bacon	2001-02-04T20:34:11Z	2001-02-04T20:34:11Z
+405	3082	5607	Jeanmarie Pope	This is great as a stuffing for celery	2001-02-04T20:34:25Z	2001-02-04T20:34:25Z
+408	4395	5581	Arthur Ghee	I havent tried this but it has everything in it that I like. Im going to try it tommorrow after I go shopping.	2001-02-04T20:35:18Z	2001-02-04T20:35:18Z
+409	4637	5147	henrysmommy	This was my first try at muffins from scratch and they were TERRIFIC! Easy to make too!	2001-02-04T20:35:28Z	2001-02-04T20:35:28Z
+411	1209	5643	Meadow Camacho	This dip was a big hit with my friends! I substituted mushrooms for artichoke hearts and it was absolutely delicous. Great heated up the next day too! YUM...	2001-02-12T15:47:15Z	2001-02-12T15:47:15Z
+414	3733	5667	MYRA HAZELTON	excellent recipe i love it	2001-02-12T15:48:23Z	2001-02-12T15:48:23Z
+415	7240	5681	ravindra mandagere	"""the baking time of 1 hour at 300 degrees plus "		
+"overbakes the cake and also chars it."""	2001-02-12T15:56:17Z	2001-02-12T15:56:17Z				
+418	5476	5689	Berevaline Windsor	Wow!!!  Egyptian food!!!  Cool!!!	2001-02-12T15:58:55Z	2001-02-12T15:58:55Z
+421	1229	5523	Dave C	This looks good. My grandkids will love me. thanks.  :>))	2001-02-12T16:01:12Z	2001-02-12T16:01:12Z
+423	2897	5714	Andrea Scheiner	It was delicious. And very easy too. Even a little kid could make it.	2001-02-12T16:06:33Z	2001-02-12T16:06:33Z
+424	2897	5724	Nikki Daniele	It was DELICIOUS and so easy too. My six year old niece even made it herself. It is such a healthy snack.	2001-02-12T16:08:44Z	2001-02-12T16:08:44Z
+425	2895	5745	Ijeva Bambridge	"""I haven''t tasted it yet because I''m just trying it for the first time for a family member''s birthday party. I am boiling the pineapple and sugar at the moment and tomorrow"	 I will put the pudding/cream cheese mixture on it and add the bananas and whipped topping and coconut and cherries. It sounds just marvelous! I intend to put a red transparent g-string on the finished product as it seems quite appropriate! I''m sure it''s going to taste fabulous so I will give it the highest rating! Mahalo for the great recipe and looking forward to more... Aloha	 Ijeva
+-----I finally baked the cake and changed it to chocolate instead of yellow cake mix.  It is absolutely delicious.  I would however	 not put 2 cups of sugar because it is awfully sweet but might reduce the quantity or even substitute with some kahlua and milk instead.					
+Other than that	" my son devoured the rest of the cake.  Superb!"""	2001-02-13T13:22:09Z	2001-02-13T13:22:09Z			
+428	1232	5689	Berevaline Windsor	...	2001-02-12T16:17:06Z	2001-02-12T16:17:06Z
+                  Pepper barlow						
+"size tomato sauce- 15 oz.Can"""	2001-02-12T16:18:38Z	2001-02-12T16:18:38Z				
+437	2941	5802	Sancton Daryl	I used this recipe for a baby shower and it was the talk of the party.  It's sooo easy and absolutely wonderful!!!	2001-02-12T16:20:28Z	2001-02-12T16:20:28Z
+438	611	5860	connie groncki	I'm lokking for a whipped cream Icing recipe.  Can you help me.connie	2001-02-15T12:43:03Z	2001-02-15T12:43:03Z
+443	3273	5898	June Williams	I had a Great Aunt that made the most wonderful dill pickles she told me that her secret was that she used rain water.  How interesting.  June Bug	2001-02-18T12:13:31Z	2001-02-18T12:13:31Z
+445	3470	5903	Traci mcmahan	awesome....kids loved it!!!!!	2001-02-18T12:15:55Z	2001-02-18T12:15:55Z
+446	2923	5899	W. babbs	This is a great recipe that's too easy.	2001-02-18T12:16:45Z	2001-02-18T12:16:45Z
+449	8430	5936	Pam Bello	Easy to follow recipe.  Wonderful taste. Had no problems with cake or blueberrys sticking to pan.	2001-02-18T20:20:44Z	2001-02-18T20:20:44Z
+451	5230	5929	Roberta Barker	"""I have made these and they are delicious"	 I also have made them with the Cherry	
+"Chip cake - made by Betty Crocker.  Very easy and a different way of doing cookies."""	2001-02-18T20:23:26Z	2001-02-18T20:23:26Z				
+452	3923	5932	David McColl	Great entre; I highly recommend this for anybody who wants a enjoyable finger food.	2001-02-18T20:25:07Z	2001-02-18T20:25:07Z
+456	67	5974	Trinda Martin	"""This pound cake makes a great base for Strawberry shortcake."		
+The recipe does NOT half well	 however it does freeze well and handy to have on hand for a quick dessert.					
+Use quality bourbon for the best taste.  I recommend Labrot & Graham's Woodford Reserve if you want to keep a very fine bourbon on hand for cooking	" baking and drinking.  ;-)"""	2001-02-20T09:22:56Z	2001-02-20T09:22:56Z			
+"Anyone who is considering making this dessert - you should!  It is fantastic!"""	2001-02-22T22:37:54Z	2001-02-22T22:37:54Z				
+458	4734	5988	Dodee Lang	"""Although we double the corn and green beans"	 it still comes out the same - fantastic.	
+"Take it quite often to covered dish luncheons and dinners.  Always asked for the recipe."""	2001-02-22T22:38:51Z	2001-02-22T22:38:51Z				
+461	4277	5745	Ijeva Bambridge	"""I tried this recipe but I could not figure out how to put the chocolate sauce on the ice cream.  I melted it and as I poured the hot chocolate sauce on the ice cream...it just rolled off to the sides."		
+Are you supposed to freeze the ice cream before you put the sauce on?						
+"It was delicious and my 14 yr. old son was very happy!"""	2001-02-23T10:14:20Z	2001-02-23T10:14:20Z				
+466	3457	5965	jennifer walker	This was easy to make and very YUMMY!	2001-02-25T21:40:18Z	2001-02-25T21:40:18Z
+467	3516	5965	jennifer walker	This is a great recipe....It didn't take too much time to prepare and the final results were delicious!	2001-02-25T21:40:25Z	2001-02-25T21:40:25Z
+469	7119	6117	jenny affleck	"""i thought that this was really really yummy."		
+it had a good texture and tasted so sweet that i cant beleive its low fat!!!						
+"cool or what!?"""	2001-02-28T14:41:56Z	2001-02-28T14:41:56Z				
+470	8473	6007	Dreama Kuhlmann	Isn't it dangerous to consume raw eggs?	2001-02-28T14:42:32Z	2001-02-28T14:42:32Z
+471	4776	6123	pamela krage	great!	2001-02-28T14:42:36Z	2001-02-28T14:42:36Z
+474	2942	6134	Roselita Ray	good and if prepared ingred. already then only takes approx. 6 min. equalling fast!!	2001-02-28T14:43:52Z	2001-02-28T14:43:52Z
+477	1878	6164	Mini Ravindran	"""Here is one more way of doing this and the same can also be used as an excellent "		
+accompaniment to any dish. 						
+Dice nearly 10-12 medium sized onions and keep aside. 						
+Take a half litre yoghurt container. 						
+Add half teaspoon salt and half teaspoon coriander powder to the same. 						
+Mix the ingredients well to get a smooth consistency. 						
+Now put the onions in this curd mixture.						
+Chop a bunch of green coriander leaves or parsley and add to this.						
+Leave it aside for 45 minutes for the flavours to set in.						
+Salt can be adjusted to individual preferences.						
+Enjoy with steamed rice	 sandwiches	 hot pita bread or even with pastas. 				
+This also goes well as a dip with fritters.						
+Hope you enjoy the same.						
+Smiles						
+"Mini"""	2001-03-01T10:56:17Z	2001-03-01T10:56:17Z				
+478	2988	5568	jennifer sander	i browned the ground beef and then mixed everything together in the croc pot and let it simmer for about 2-3 hours. it was wonderful!!	2001-03-01T10:56:43Z	2001-03-01T10:56:43Z
+483	451	4837	Debbie Elezi	I love these potaotoes! We always called them Grecian Patatoes. at any rate for a little extra effort these spuds are worh it! P.S. The Greek Lemon chicken is great also.	2001-03-02T23:56:43Z	2001-03-02T23:56:43Z
+487	4882	6183	Annette Vystrcil	My recipe is similar...using a whole chicken instead...and slightly different ingerdients..but the major difference is that I make a small dumpling instead of the noodles....	2001-03-03T13:48:00Z	2001-03-03T13:48:00Z
+492	3812	6234	Michael Feehery	This is a great recipe! Try serving with hollandaise sauce.	2001-03-04T12:59:16Z	2001-03-04T12:59:16Z
+493	517	6233	Bob Stacy	"""Exceptional!"		
+Could not find any decent ground lamb today	 so we made it with 1/2 lb each of lean ground beef	 pork and veal - different taste from lamb	 but truely outstanding.			
+"GREAT Dinner Party meal"""	2001-03-04T12:59:24Z	2001-03-04T12:59:24Z				
+497	170	6127	Eva Mann	Our family found this recipe simply delicious and easy to make.	2001-03-05T17:17:59Z	2001-03-05T17:17:59Z
+500	4429	5766	Marie Abernathy	Suet is the fat that our mothers used to get with the stew beef . You need to grind it up to go in the bread pudding.	2001-03-07T10:20:58Z	2001-03-07T10:20:58Z
+501	3779	6303	michael blender	You can tell he or she has never worked as a chef.  Just because you come from philly doesn't make you an expert	2001-03-07T10:21:12Z	2001-03-07T10:21:12Z
+502	4608	6302	Ukyo Kuonji	First web site that had the recipe!!! Thanks You!!!!!	2001-03-07T10:21:18Z	2001-03-07T10:21:18Z
+503	3448	6295	Bill Shader	"""Great aroma"	 great taste.	
+"Added 16oz. can of diced tomatoes to the recipe."""	2001-03-07T10:22:59Z	2001-03-07T10:22:59Z				
+"                    Lea Evans"""	2001-03-07T10:23:32Z	2001-03-07T10:23:32Z				
+505	7303	6244	judyaz	From the editor: when Bill made this there was an error in the recipe that incorrectly listed the measurement of the pepper flakes. I have corrected this. Thanks.	2001-03-07T10:23:43Z	2001-03-07T10:23:43Z
+508	8608	6389	Grace Riley	best recipe iv tried in a long time.	2001-03-12T11:53:56Z	2001-03-12T11:53:56Z
+511	3222	6362	James Lamb	This recipe is outsatanding it took me by surprise on how deleicous it was thanks recipezaar	2001-03-12T15:27:12Z	2001-03-12T15:27:12Z
+514	593	6313	madpots	"""This recipe has been used in our family for many years.  My problem now is that I have trouble finding green tomatoes!"		
+The recipe is very simple	" but I salt and pepper the tomatoes a little and add a little white flour to the cornmeal.  My mother would sprinkle a little sugar - white or brown - on the tomato after she turned them.  When the sugar melts and is crusty the tomato is done."""	2001-03-12T15:27:12Z	2001-03-12T15:27:12Z			
+516	2617	6404	adam pillinger	"""an exceptional dish"	 ideally served for two people as romantic dinner.	
+works a treat and served with a good bordeaux	 you never no were you will finish up after the meal.					
+tasty.						
+"by italian chef adam pillinger"""	2001-03-12T15:27:12Z	2001-03-12T15:27:12Z				
+517	4296	6406	Judith Fraser	Found this recipie to be delicious and easy to prepare.  My husband loved it and is not usually fond of meatloaf.  The carrots made it even more moist than most meatloafs and the sauce on top made the flavor wonderful.	2001-03-12T15:27:12Z	2001-03-12T15:27:12Z
+522	7477	5816	Virginia Lefler	Alot of work (I actually made the pork broth) and really wasn't that good.  Gristly (from gizzards) and too strong a liver taste.	2001-03-12T15:28:19Z	2001-03-12T15:28:19Z
+525	2980	6390	Steve Carlson	Did I miss where the wine and bread come in?	2001-03-12T17:25:41Z	2001-03-12T17:25:41Z
+527	480	6437	Chris Reed	Great!	2001-03-14T12:06:46Z	2001-03-14T12:06:46Z
+528	7217	5523	Dave C	Hey. Got this recipe in the March 8th news letter. tried it last weekend. not bad.	2001-03-14T12:06:46Z	2001-03-14T12:06:46Z
+Melt butter & cocoa together	" add rest of ingredients. Spread over marshmallows(I used a jar of marshmallow creme). I did not mix together to resemble mud. Just spread chocolate on top of marshmallow creme and enjoy. Everyone loved it!!"""	2001-03-14T13:02:47Z	2001-03-14T13:02:47Z			
+532	8592	5328	Janie Woodall	"""I just tried this recipe at our BBQ over the weekend and it was a big hit !!! "		
+"Great recipe !!!!"""	2001-03-24T09:25:42Z	2001-03-24T09:25:42Z				
+533	7776	5830	jenee mccaleb	This recipe was great because uses pantry freindly ingredients and it tasted wonderful.All you need is the food processor. I love that you don't need sour cream which I never have on hand just mayonnaise it and its good.	2001-03-16T12:15:50Z	2001-03-16T12:15:50Z
+534	506	5830	jenee mccaleb	This recipe is easy and my husband loved it.I t does make a lot though so be prepared.	2001-03-16T12:15:50Z	2001-03-16T12:15:50Z
+535	4560	5830	jenee mccaleb	"""These cookies have also been called """"magic cookies"""" (without the butterscotch) on the back of the sweetened condensed mild can and they will give you the temp-- which is 350."""	2001-03-16T12:15:50Z	2001-03-16T12:15:50Z
+547	4717	6563	Niki W.	I used canned sweet potatoes instead of 'real' ones. . .but it was still excellent!	2001-03-19T11:41:23Z	2001-03-19T11:41:23Z
+548	8634	6600	Sandy Piche	what a great recipe. I can use it as a main dish or as a side dish with breaded cutlets.	2001-03-19T11:41:23Z	2001-03-19T11:41:23Z
+549	469	6614	L. J. Bryant	"""This Irish Soda Bread was just like I got in Ireland every morning for breakfast!"		
+It was great!						
+I think next time I make it I will add just a pinch of table salt. 						
+It was quick and easy to make and it went well with corned beef and cabage.  						
+"This bead should also go great with the Beef Stew with Guinness Stout also a great recipe."""	2001-03-19T11:41:23Z	2001-03-19T11:41:23Z				
+550	8486	6406	Judith Fraser	I liked this dish but would omit the cloves of garlic. There are so many other flavors going on here that it doesn't need it.	2001-03-19T11:41:23Z	2001-03-19T11:41:23Z
+552	7435	4337	rcjldemars	I tried Kevin's recipe for the Corned Beef and the recipe on the package of another pre-prepared brisket. The aroma and texture of Kevin's preparation were exciting. A fine blend of liquids and spices.	2001-03-19T11:41:23Z	2001-03-19T11:41:23Z
+554	3470	6688	Mr. Riki Screen	diff. brands of soup make it taste diff. but a very good meal for alazy day...	2001-03-24T09:25:42Z	2001-03-24T09:25:42Z
+556	7548	6713	carol webber	this is a great treat and easy to make!!!!!	2001-03-24T09:25:42Z	2001-03-24T09:25:42Z
+557	8541	6755	Joey Jabaley	Adding cilantro and maybe a bit of cardamom and/or coriander would compliment.  Cooking time for crockpot wasn't clear.	2001-03-24T09:25:42Z	2001-03-24T09:25:42Z
+561	2903	6976	Spencer Simmons	This dish was prepared and plated in about 45 minutes (including prep time) and was very easy to make.  We made the dish just as the recipe read with no substitutions.  For the ground red pepper we used cayenne (go very light lest it be too hot).  I will admit that we bumped the amount of garlic up a bit to about 3 cloves chopped.	2001-03-24T09:25:42Z	2001-03-24T09:25:42Z
+567	7435	7064	Betty Wagner	Wow!I came here looking for a recipe for corned beef because I had never cooked one before. I had to buy most of the spices but it was well worth it. The recipie was easy to follow and my 7 other guests raved about the flavor. They said they could have not gotten a better meal in a restaurant. Thanks!	2001-03-25T16:48:06Z	2001-03-25T16:48:06Z
+570	7435	7052	Michelle England	"""this sounds Wonderful"	 i will have to make it.  however	 why is it in low-cholesterol foods?
+i don't think this will help out thouse how are not to be eating this.  hey	 thanks for the recipe					
+i Have to make this one.						
+"Mic"""	2001-03-25T16:48:41Z	2001-03-25T16:48:41Z				
+571	7483	6975	roxanne	easy to make & tastes excellent	2001-03-25T16:48:41Z	2001-03-25T16:48:41Z
+573	619	7081	george mchugh	like the one i have had in res.	2001-03-25T16:48:41Z	2001-03-25T16:48:41Z
+574	1267	7087	Robyn Shuda	I am always looking for good chinese recipes and this is one of them!  It is a must!	2001-03-25T16:48:41Z	2001-03-25T16:48:41Z
+582	1978	7145	cam Bentley	Easy to make and tastes great!	2001-03-29T17:11:32Z	2001-03-29T17:11:32Z
+584	7465	7207	Christi Gilmore	This is the best!	2001-03-29T17:11:32Z	2001-03-29T17:11:32Z
+587	8182	7240	Amber Broach	This stuff is nasty it is horrible yuck!!!!	2001-03-29T17:11:32Z	2001-03-29T17:11:32Z
+590	2679	7276	Pat Egerton	"""I think this has to be an English soul food:) My Mother is from yorkshire. "		
+"If there are not enough meat fats we always use lard. Put into a hot oven first in muffin pan or a metal pan at 425 till fat smokes.Then add batter helps batter to rise :)"""	2001-03-29T17:11:33Z	2001-03-29T17:11:33Z				
+591	6819	3288	TishT	OK...but I thought it was missing some pizzaz.	2001-03-29T17:11:33Z	2001-03-29T17:11:33Z
+Next time	" I may try freezing the tofu first too. That is supposed to give the tofu a """"meatier"""" texture. Just drain"	 unwrap	 rewrap in plastic very tightly	2001-03-29T17:11:33Z	2001-03-29T17:11:33Z	
+595	8509	7384	Kim Blanchard	Excellent and so simple to make.  I replaced the Accent with Lawry's Season salt.  My whole family loved them -- no left overs!  I will make these again.  Thanks for the great recipe!	2001-03-29T17:11:33Z	2001-03-29T17:11:33Z
+596	6640	6584	thomas stitak	very good ! took some to mom & dad and they want more.	2001-03-29T17:11:33Z	2001-03-29T17:11:33Z
+598	8122	7401	Jessica Haines	Fabulous! Not too heavy and not too dry. Keep the Polish recipes comming!	2001-03-29T17:11:33Z	2001-03-29T17:11:33Z
+599	5275	7329	suzy quinton	havent made them yet but am very much looking forward to doing so...have missed the taste of faggots for 10 years....i just have one problem i have no idea what a pigs apron is....please if u could forward this info...i will look forward to trying the recipe.....thank u for being ther...	2001-03-29T17:18:45Z	2001-03-29T17:18:45Z
+601	536	6702	Jennifer Michele	"""The corn dog casserole tasted a lot like baked cornbread stuffing. I liked it and would eat it again"	 but it was a no go with the 10 year old. My four year old picked out the hot dogs but left most of the breading on her plate.	
+Also	 it had to cook longer than indicated here. After 45 minutes it was done	 so when you try the recipe	" give yourself more time than stated."""	2001-04-02T17:35:34Z		
+604	3110	7449	Chantelle Volorney	How could anyone actually eat something so dirty? Please tell me why when we can eat chicken breast or wings would anyone choose to put this in their mouth!	2001-04-02T17:35:34Z	2001-04-02T17:35:34Z
+612	7356	6748	Carie Ruhl	Great April Fool's day joke for the kids!  Fairly easy to make.	2001-04-02T17:35:34Z	2001-04-02T17:35:34Z
+616	2255	6434	pat ebsch	This is so good cooled or hot	2001-04-02T17:35:34Z	2001-04-02T17:35:34Z
+624	1128	7279	Keith Lewis	"""It took me about a week after registering on this site to try out one of the recipes."		
+This was it.  I had a feeling I would like it when I saw the name.  That feeling grew when						
+I saw the ingredients.  I underestimated just how good it would be.  This is probably the 						
+best chicken recipe I have ever made.  It was simple	 smelled phenomenal while it was					
+baking	 and had a perfect combination of sweet and spicy... one of my favorite flavor					
+combinations.  I made one substitution.  I used four boneless	 skinless chicken breasts					
+instead of the six thighs (which I assumed had bones). I made the sauce just how it						
+"was in the recipe... Phenomenal."""	2001-04-03T15:24:28Z	2001-04-03T15:24:28Z				
+625	630	5349	D Martin	"""This soup was delicious.  I did not add a blanched tomato but rather reduced the broth by 1 cup and added 10 ounces of canned diced tomatoes."		
+"The parmasen cheese adds a great flavour. Oh so good!!!!!!!!"""	2001-04-03T15:24:28Z	2001-04-03T15:24:28Z				
+629	3877	7673	Rachel Merrell	I substituted 3 bananas instead of zucchini and it was very yummy!	2001-04-18T08:53:56Z	2001-04-18T08:53:56Z
+634	3225	7713	lynn dickensheets	This dish is always a hit!	2001-04-04T16:51:30Z	2001-04-04T16:51:30Z
+635	1069	7747	k c1944	Kids loved watching the crystal form! We added food colour to this recipe for fun.	2001-04-05T11:43:12Z	2001-04-05T11:43:12Z
+639	3186	7808	Christina	This recipe is perfect for entertaining.  I created a simple yet authentic French meal accompanied by these delicious gougere puffs.  Simple yet satisfying.	2001-04-09T18:51:57Z	2001-04-09T18:51:57Z
+641	4244	7697	Krystal Shankle1	This is a great beverage for a dinner party. We loved these. It was so much better than a mix. The powdered sugar was the biggest surprise. It set the whole thing off.	2001-04-09T18:51:57Z	2001-04-09T18:51:57Z
+642	4957	7813	Mary Duffy	"""This is fantastic.  It is great to start this before going to work.  When you walk into your kitchen"	 it is as though someone has been cooking in your kitchen all day.	
+"My family loved this recipe.  I doubled it and had enough to put in the freezer for a quick meal."""	2001-04-09T18:51:57Z	2001-04-09T18:51:57Z				
+644	4762	5929	Roberta Barker	"""This is a terrific recipe.  I have substituted Hellman's mayo for the chili sauce sometimes and I also add slivered almonds or sliced water chestnuts just for a little different texture."		
+"I have served this many times and received lots of compliments."""	2001-04-09T18:51:57Z	2001-04-09T18:51:57Z				
+645	4903	5929	Roberta Barker	"""This is terrific"	 I also added about 1 tsp. of poultry seasoning.	
+"Family loves this."""	2001-04-09T18:51:57Z	2001-04-09T18:51:57Z				
+647	1595	2962	m bucken	The recipe works well and is fairly flexable.  I have tried it without the lemon or with 4 chicken breasts instead of 3.	2001-04-09T18:51:57Z	2001-04-09T18:51:57Z
+648	506	7407	Susan Scovill	Very Tasty!  I added peas and finely chopped carrot to add colour and vitamins.	2001-04-09T18:51:57Z	2001-04-09T18:51:57Z
+655	6859	7381	Judith Cadieux	"""It's excellent!"		
+Good tasting & nice and thick						
+"You can eat it with a fork!!!"""	2001-04-09T18:51:58Z	2001-04-09T18:51:58Z				
+656	4330	7920	Margie Kirkman	I have made this recipe several times.And my family just love it.It's easy and made a great dish for Thanksgiving.A lot of people have said for the recipes.My children also liked it.	2001-04-09T18:51:58Z	2001-04-09T18:51:58Z
+657	8688	7504	judy hill	The main suggestion I will make about this recipe is you really should double it!!You will be surprised at how fast they go. Once you start eating it is hard to quit. YUMMY!!	2001-04-09T18:51:58Z	2001-04-09T18:51:58Z
+661	8312	7995	Matt Angulo	I made this dish for my family and they loved it!  It makes a little more than 4 servings and is really filling.	2001-04-09T18:51:58Z	2001-04-09T18:51:58Z
+After adding the water	 and lentils	 I would add one peeled	 diced			
+Dash of this	 and that; oregano	 parsley	 paprika	 tobasco.		
+I would use 1 tbs of red wine vinegar	" instead of 2 tbs of cider vinegar."""	2001-04-09T18:51:58Z	2001-04-09T18:51:58Z			
+663	2795	8001	paddy buck	this is a simple but tasty recipe	2001-04-09T18:51:58Z	2001-04-09T18:51:58Z
+664	7864	5886	Mary Ellen Durfee	"""I use fresh pineapple """" crushed in a food processor. The muffins are light and moist; a favorute of my family"""	2001-04-09T18:51:58Z	2001-04-09T18:51:58Z
+665	1303	8005	boardgirl148	"""This was a terrific cheesecake!  I substituted coconut extract for the almond extract"		
+"and I also added about half of a cup of graham cracker crumbs to the crust mixture."""	2001-04-09T18:51:58Z	2001-04-09T18:51:58Z				
+666	2122	8021	Penny Hill	Very easy to make.  Delicious as is or with one of the variations.	2001-04-09T18:51:58Z	2001-04-09T18:51:58Z
+668	542	7874	Victoria Cloud	We substituted Ritz cheddar crackers.  The kids loved it!  A keeper.	2001-04-09T18:51:59Z	2001-04-09T18:51:59Z
+670	3516	7619	Glenn Fischer	This took me about 15 minutes to prepare and about 20 minutes to cook. It turned out really well!  The only change I am going to try is to add a little sugar to the sauce.	2001-04-09T18:59:06Z	2001-04-09T18:59:06Z
+674	3595	7994	tania winn	I find this recipe hard to follow because im in australia  and need to find similar ingredients.	2001-04-09T19:00:06Z	2001-04-09T19:00:06Z
+676	3595	8061	tony mercado	I made this cake for my wife and she took it to her work and everyone wants me to make one for them.	2001-04-13T16:58:13Z	2001-04-13T16:58:13Z
+679	2895	8111	Cyd St Clare	"""This was a vert tasty treat! However"	 I subsituted the pecans with almond slivers.	
+"I am thinking next time to crush the almond slivers an try it that way."""	2001-04-13T16:58:13Z	2001-04-13T16:58:13Z				
+680	4313	8108	Kimberly Sanchez	This is a Grat recipe. Every one will love it. It's not to dull but not to sweet either. I almost perfect. Except the preparation.	2001-04-13T16:58:13Z	2001-04-13T16:58:13Z
+683	536	8208	Jill Willadsen	I like to make new dishes for potluck so I tried this recipe.  Everyone thought it was great and thought it was a fun and different kind of casserole.  You need to add Ketchup or BBQ sauce on the finished casserole to bring out the flavors - just like with corn dogs on a stick.	2001-04-13T16:58:13Z	2001-04-13T16:58:13Z
+684	2768	7371	steve boreland	I'm really going to try this one	2001-04-13T16:58:13Z	2001-04-13T16:58:13Z
+685	8727	8221	Joanne Fraser	"""My friend  did this salad for me at a dinner she had.  It was so fabulous I had to ask her for "		
+recipe.  I made it again a few days later	 and the family loved it.  I lost the recipe at home					
+and thanks to the net	 I have it again! Definately a must do salad!  I served it at the end					
+of the meal.  It was like serving a 'salad' and 'dessert' in one dish! If you do do this recipe						
+"do add the shaved cheese. It's amazing!"""	2001-04-13T16:58:13Z	2001-04-13T16:58:13Z				
+686	8468	8229	martina williams	"""Great salad!!!! It reminds me of home. I lived in Driebergen uptil February this year"	 so I am curious which restaurant you have been eating?	
+"Thank you for a taste from home. Martina"""	2001-04-13T16:58:13Z	2001-04-13T16:58:13Z				
+688	3760	6417	ELIZABETH FOOR	This is a refreshing fruit smoothie and I add some frozen cherrys and peaches...just to add more fruit and fiber....good stuff...	2001-04-13T16:58:13Z	2001-04-13T16:58:13Z
+689	16599	8313	Kirsty Smith	the best recipe for brownies I have ever found.	2001-04-18T08:53:25Z	2001-04-18T08:53:25Z
+691	5128	6383	Mary Rabbas	This is yumy if you want to try something to knock your socks off try Crab Bisque	2001-04-18T08:53:26Z	2001-04-18T08:53:26Z
+692	316	6863	Douglas Gove	Dolmades just cant be made without avgalimino sauce as it just doesn't have the same flavor.Check out a good recipe and try it you'll see what I mean.	2001-04-18T08:53:26Z	2001-04-18T08:53:26Z
+694	8744	7934	GrandmaKazer	"""Noreen Rak"		
+"This is a fantastic recipe and I plan on preparing this for company. Very healthy and appealing.  Thank you!!"""	2001-04-18T08:53:26Z	2001-04-18T08:53:26Z				
+699	8766	8352	sean shannon	good	2001-04-18T08:53:27Z	2001-04-18T08:53:27Z
+703	8701	8395	Susan Quinn	These ribs were out of this world.  I cant wait til summer when I can bring them along to all the get-togethers we usually get invited to....They are sure worth the effort !!!!	2001-04-18T08:53:27Z	2001-04-18T08:53:27Z
+704	177	8053	Jason Meagher	"""Yum -- well worth it! I added yogurt to the peanut sauce to make the paste instead of water and it was a big hit."		
+I served it with cool cucumbers in a yogurt-vinegar sauce (yogurt	 vingegar	" sugar) and some rice."""	2001-04-18T08:53:27Z			
+711	2601	8481	maureen wilson	This is a great dieting soup - it is nutritious and tastes really good (even better the next day).	2001-04-19T11:13:16Z	2001-04-19T11:13:16Z
+712	2536	8502	connie hanlon	made these for a large group gathering at work. went over well with the men and women. thanks for sharing!!!! it was very easy to prepare.	2001-04-19T11:13:16Z	2001-04-19T11:13:16Z
+715	4978	8511	Tod Monet	This dish might have tasted better by either replacing the tuna with a white fish or by adding olives or something. It was also a bit to bold tasting for me.	2001-04-19T11:13:16Z	2001-04-19T11:13:16Z
+716	7805	8512	Betty Sanders	"""I like the idea haveing the nuturtional value listed.  I have.nt tried this recipe yet."		
+But I will. Some of the ingrdients and amounts were unclear i						
+I will have to guess what they are.						
+"			 Thanks Betty"""	2001-04-19T11:13:16Z	2001-04-19T11:13:16Z				
+718	2086	3934	Sandy	This is wonderful. I made one batch for trial then had to make 15 more batches.Very easy and makes in just minutes.	2001-04-22T19:54:35Z	2001-04-22T19:54:35Z
+722	4785	8556	debbie ellison	"""GREAT RECIPES"		
+MY FATHER IS A FICKLE EATER	"BUT HE LOVED THE RICE.KEEP UP THE GOOD WORK.........."""	2001-04-22T19:54:36Z	2001-04-22T19:54:36Z			
+731	8463	8609	Clifton J. Owens	"""Great Recipe ! Mom is a good cook .No punt intended "	 I added Shitakki mushrooms and a tsp. of worcestershire sauce w/hickory bar-b-que sauce thinly layered on top.  Mmmmmm !   I'm a mushroom lover !	
+                               Thought I'd Share						
+                                      Cliff						
+                                  Mullica Hill	"NJ"""	2001-04-22T19:54:36Z	2001-04-22T19:54:36Z			
+732	6934	8611	pam doyle	Everytime I've served this I have rave reviews!!	2001-04-22T19:54:36Z	2001-04-22T19:54:36Z
+733	7224	6755	Joey Jabaley	This is a tasty use for eggplant that's easy to prepare and healthy to eat.	2001-04-22T19:54:36Z	2001-04-22T19:54:36Z
+735	8661	8619	Peter Wendt	Great simply prepared. classic.	2001-04-22T19:54:36Z	2001-04-22T19:54:36Z
+737	242	8580	Pearlgirl	"""""""Any"""" Muffin"		
+What a great idea....will let you know how my banana muffins turn out.						
+"thanks"""	2001-04-22T20:25:00Z	2001-04-22T20:25:00Z				
+738	8744	8584	Barb Roseen	Great recipe.  I have tried it several times.  The cheese step was an added item that realy adds tot he taste.  I know the author and he has a whole prtfolio of great recipe that are simple and delicious....stay tune for future offerings.	2001-04-22T20:26:02Z	2001-04-22T20:26:02Z
+739	2886	8639	Nicole Schmitt	I have been searching for a good banana bread recipe for over a year and I finally found it!  What a super simple recipe with excellent results!!!  Try it - You'll LOVE it!!	2001-04-24T16:06:25Z	2001-04-24T16:06:25Z
+740	8787	8526	KissMyTiara	Very interesting and simple recipe I would have never thought of. The kid's and adults loved it. Looked like something from an expensive restaurant.	2001-04-24T16:07:29Z	2001-04-24T16:07:29Z
+742	8781	8526	KissMyTiara	Wonderful tasting and beautiful looking salad. Perfect for company. I added 1 thinly sliced apple. Good with fish and white wine.	2001-04-24T16:07:30Z	2001-04-24T16:07:30Z
+744	8473	2555	Wanda Fornal	Very good....my family loves it.	2001-11-13T09:48:19Z	2001-11-13T09:48:19Z
+746	6459	8653	dee freeman	but u need 2 have pictures	2001-04-24T16:55:19Z	2001-04-24T16:55:19Z
+747	5315	8629	Marie Nixon	I brought this to an office holiday party and everyone enjoyed it.	2001-04-24T17:25:47Z	2001-04-24T17:25:47Z
+749	330	8172	Glynis Hartman	Very easy to make.  Delicious!  I substituted green chiles for the salsa and I made my own chicken broth instead of using the canned.  Family wants me to make it again.  It's even better reheated!	2001-04-25T11:21:38Z	2001-04-25T11:21:38Z
+753	4978	4445	Nancy Joyner	This recipe is good with either white fish or tuna.  My sicillian husband found it a little bland so I substituted roasted red peppers for bell peppers.	2001-04-26T13:15:59Z	2001-04-26T13:15:59Z
+761	349	8805	Gary Myer	"""I was planning to use the vanilla sauce just over a strawberry-rhubarb compote I had found"		
+elsewhere on this site	 but then I noticed that the directions do not tell me what to do with the 					
+"beaten egg and 2 Tbsp. water (the last two ingredients).  """"Reheat"	 [should it read 'swirl in the					
+"and water mixture into the'] vanilla sauce and stir"""" ?"						
+"Hope you can correct this oversight!"""	2001-04-27T12:20:13Z	2001-04-27T12:20:13Z				
+768	8805	5929	Roberta Barker	"""This is a terrific dip"	 it came in time for me to make it for a pot luck supper at	
+"my apartment complex."""	2001-04-27T16:10:09Z	2001-04-27T16:10:09Z				
+770	8594	8342	Kathy-Lynn	I loved this recipe!	2001-04-29T11:18:33Z	2001-04-29T11:18:33Z
+773	8593	8914	sass ciecholinski	"""i have a much better recipe for kahlua then that its my mothers recipe."		
+"when i find the recipe ill send it"""	2001-04-30T09:19:35Z	2001-04-30T09:19:35Z				
+774	249	8936	Michelle Croasmun	this was a great recipe. You can also substitute the pita bread with a soft tortilla wrap or even just crackers.   Also you can substitute the lemon-pepper with garlic pepper.	2001-05-01T09:33:40Z	2001-05-01T09:33:40Z
+776	893	8938	Barbara Jones	My family is from Maryland and always made this pie.  My aunt who passed away was a great white potato pie maker but never told us the full ingredients for her pie.  This one is great!	2001-05-01T09:33:41Z	2001-05-01T09:33:41Z
+778	5071	8944	CHARLES BANGE	"""I work in a five star restaurant. The manager is italian. She just loved it. So we put it in the menu for the special of the night. Sold out of two italian cheesecakes in one night. Grreat recipe. Thanks"		
+"chef charles"""	2001-05-01T09:33:41Z	2001-05-01T09:33:41Z				
+780	4667	9007	russ winslow	Verry Yummy! My 9 y/o had 7 pieces!	2001-05-02T14:18:25Z	2001-05-02T14:18:25Z
+782	5466	8990	Michelle Gotshall	Thanks for the laugh!  I emailed this to my boyfriend and told him I'd be making it for supper tonight. I can't wait to hear his response!	2001-05-02T14:18:53Z	2001-05-02T14:18:53Z
+783	2770	9006	Lisa J	Considering I have nothing to compare it to. It took me over an hour and a half to find one recipe for Mulberry anything. It was great you have a great site here. Thank You If you could find a Mulberry wine recipe i would greatly appreciate it. Thanks again Lisa	2001-05-02T14:19:06Z	2001-05-02T14:19:06Z
+785	4627	8983	Cyndi Hughes	This soup was very good my whole family loved it I will be making that again.	2001-05-03T15:53:20Z	2001-05-03T15:53:20Z
+790	7303	9061	Deborrah Cooper	"""I took Bill's suggestion and sprinkled my shrimp with Tony Chachere's Creole Seasoning Salt and let it sit while I prepared the rest of the dish."		
+I used Italian eggplant	 and 3 cans of diced tomatoes with 1 can of tomato sauce	 2 Tablespoons of garlic.  I also modified the recipe to reduce the fat content.  Instead of using 2 tablespoons of oil to saute the eggplant	" I sprayed a nonstick frying pan with Olive Oil PAM spray and was therefore able to tastefully reduce the fat content by more than 50% (sauteed the garlic in only 1 teaspoon of oil instead of 1 Tablespoon in nonstick frying pan as well).  Hooray for my waistline!"""	2001-05-04T12:19:27Z		
+792	2746	9082	Rain8554	I used veggie meat instead of beef and it turned out quite good	2001-05-04T18:17:57Z	2001-05-04T18:17:57Z
+793	2940	9097	nate newbs	awesome!!!!	2001-05-07T11:24:30Z	2001-05-07T11:24:30Z
+794	7218	6512	Virginia Chandler	Easy and quick recipe. I substituted Sunflower Seeds for the Pine Nuts and it was very tasty.	2001-05-07T11:24:30Z	2001-05-07T11:24:30Z
+795	8247	6512	Virginia Chandler	If you like spicy then this recipe is for you. This recipe is pretty easy. Next time I make this dish I will cut the sauce in half.	2001-05-07T11:24:30Z	2001-05-07T11:24:30Z
+797	2820	9119	Leslie LEE	Simple to make and tastes great!	2001-05-07T11:24:30Z	2001-05-07T11:24:30Z
+798	8563	5644	Michelle Wells	Wonderful recipe !   My paprikash never turned out better since I started using this nockerl recipe.	2001-05-07T11:24:30Z	2001-05-07T11:24:30Z
+800	5194	8406	Steven Skoczen	"""Wonderful"	 and easy to make!	
+"I also added cheese on top for the last 15 min -- turned out great!"""	2001-05-07T11:24:30Z	2001-05-07T11:24:30Z				
+801	7929	7094	Michael Williams	Pure culinary magic. You will be hard pressed to find a more imaginative recipe. Bravo.	2001-05-07T11:24:30Z	2001-05-07T11:24:30Z
+802	2066	9105	Karen Sharp	"""A good quick recipe."		
+"Great with additional ingredients also."""	2001-05-07T11:24:30Z	2001-05-07T11:24:30Z				
+803	287	9145	mike reed	"""i had the privelage of dodging the draft in brasil when i was a young man.  I loved the food"	 the people and the language.	
+my only regret with your recipe was the use of turkey sausages.............i just couldn't get behind it.						
+maybe i'll try again soon.						
+ muito obrigado.......						
+"mike"""	2001-05-07T11:24:30Z	2001-05-07T11:24:30Z				
+809	2942	9203	Valerie Lindenmeyer	This is an outstanding punch! I used the recipe for a baby shower for 36 servings. I want to mention to use frozen concentrate lemonade.The preparation was so easy and I'm sure everyone will just go nuts over it. Try it now!	2001-05-10T10:23:08Z	2001-05-10T10:23:08Z
+810	129	9211	cmsnovi	We made this for a bridal shower and garnished it with a gingerale ring with strawberries and lemon/lime slices.  It was refreshing and looked pretty as well.	2001-05-10T10:23:08Z	2001-05-10T10:23:08Z
+811	4765	9225	Valerie Johnson	"""This is a great alternative for french fries.  My kids are asking me for the new kind of """"French Fries"""".  They are tasty enough that you don't need katup."""	2001-05-10T10:23:08Z	2001-05-10T10:23:08Z
+817	5454	8763	Stephanie Tanner	This food is yummy i love the mixture of the ingrediants!	2001-05-10T10:23:08Z	2001-05-10T10:23:08Z
+818	5378	9235	Jonathan Molina	"""This is great!"		
+"It isn't very hard to make and I did make a few adjustments and it tast very good whith homemade bread."""	2001-05-10T10:23:08Z	2001-05-10T10:23:08Z				
+819	1246	9082	Rain8554	i only made the sauce for this recipe but it was quite tasty! Very simple and easy to make	2001-05-10T10:23:09Z	2001-05-10T10:23:09Z
+820	8519	8560	Frank Troy	"""I really enjoyed this bread"	 it was kind of heavy	 but very tasty.  The vanilla frosting added a very nice touch.
+Thank you						
+"Frank"""	2001-05-13T17:55:25Z	2001-05-13T17:55:25Z				
+821	8670	9312	swati gorcale	It's just yummy! Even my kids loved it!	2001-05-13T17:55:25Z	2001-05-13T17:55:25Z
+823	4799	6406	Judith Fraser	This is delicious and is very important to get the pineapple as dry as possible.  I used chopped walnuts instead of pecans.	2001-05-13T17:55:25Z	2001-05-13T17:55:25Z
+824	1460	9209	Andy Rice	Great recipe! Awesome taste!!!	2001-05-13T17:55:25Z	2001-05-13T17:55:25Z
+826	190	7961	Chris Williams	"""My only comment would be that it looks is if I should have kept out the 1st patch of  meat cooked and used the remainder to simmer for 2 hours because if I used all the meat I did not have anything to bring to a boil it was to dry."		
+"just my thoughts."""	2001-05-14T14:25:52Z	2001-05-14T14:25:52Z				
+831	8926	9450	John Beam	One of my favorite creations by this talented food artist. A simple but thorougly enjoyable dish. Ideal for one of those rainy Seattle nights...	2001-05-16T10:26:26Z	2001-05-16T10:26:26Z
+835	9007	9441	Lisa Sorrell	I have never heard of Rotel.  I will be sure to look for it!	2001-08-29T11:57:06Z	2001-08-29T11:57:06Z
+848	526	9468	Nicole Huddleston	"""The first batch I made I poured out and had a clump at the bottom"	 which I discovered to be the pectin. But it tasted great! The second batch I mixed better to get the pectin in	 and didn't like it near as well. I will be making mine in the future without the pectin. I also added about a teaspoon or so of Irish Cream syrup which was marvelous!
+"This is a very easy recipe if you have an easy espresso maker."""	2001-05-16T10:26:27Z	2001-05-16T10:26:27Z				
+849	4854	9121	Carol Bullock	Not very good.  Not much flavor.	2001-05-17T10:39:21Z	2001-05-17T10:39:21Z
+857	8704	7370	Gina Arnone	Yeah!! The stroganoff that I have missed in a mushroom free enviroment for my husband.  I have also substituted the beef for chicken and the mushroom soup for cream of chicken for the easiest chicken paprika I have ever made.  Thank You for this wounderful recipe!	2001-05-20T10:18:00Z	2001-05-20T10:18:00Z
+859	8970	9347	Janice McPherson	Easy recipe - couldn't believe how easy. But I found there was too much flour -left out nearly i cup.And tastes great Janice	2001-05-20T10:18:00Z	2001-05-20T10:18:00Z
+860	8534	8627	Jon Edwards	This dish is excellant!	2001-05-20T15:01:19Z	2001-05-20T15:01:19Z
+861	5392	8627	Jon Edwards	This is a very good veggie dish.  I went a little easy on the spinich though.	2001-05-20T15:01:19Z	2001-05-20T15:01:19Z
+862	7294	9622	saxonct	I would love to make this recipe but there is no indication of how many eggs it calls for. HELP!	2001-05-20T15:15:42Z	2001-05-20T15:15:42Z
+863	8524	7422	CookieGirl23	This recipe is simple to make and flavorful but I found the cornchips became very mushy with the liquid on it.  I did add black beans (drained) to add additional color and protein to dish.	2001-05-21T10:35:48Z	2001-05-21T10:35:48Z
+866	8592	6975	roxanne	wow!!	2001-05-21T10:35:49Z	2001-05-21T10:35:49Z
+868	44	9816	Kathy Jester	It is a great meal I put it with noodles and it is nice and creamy and a good taste as well. It was easy to make. All you need is a picture of it to go with it.	2001-05-21T10:35:49Z	2001-05-21T10:35:49Z
+872	3548	10008	Rhonda G	can't wait to try this yummy recipe	2001-05-24T08:50:38Z	2001-05-24T08:50:38Z
+879	4244	2625	Eli Totz	"""Anything?"		
+"This is all wrong.  Who uses powdered sugar in Margarita's? What kind of surprise is this --""""Hey"	" there's marshmallows in the jello! Yes!"""""					
+"Drink NO beverage that changes any part of the word """"margarita"""".  What the hell is coarsely cracked ice?"						
+The f'in truth? Ok	 ok:					
+Half the glass filled with crushed ice. Fill up to ice line with GOOD tequila (important). Splash of Grand Marnier. Add some fresh squeezed lime juice. Rub lime around the rim AFTER.  Salt is optional and is	 well	" useless."""	2001-05-24T08:50:39Z			
+881	7379	2625	Eli Totz	"""Weird. This reminds me of Buster Douglas.  "		
+Why so complicated? Why bother having oysters at all?  This recipe would probably work with seitan. Or	" possibly...yes."""	2001-05-24T08:50:39Z	2001-05-24T08:50:39Z			
+886	8654	10127	Melody Olson	My husband is a really picky eater and he loved this very easy recipe!	2001-05-24T08:50:39Z	2001-05-24T08:50:39Z
+889	3748	10033	spatchcock	This was wonderful--finally got around to using the A to Z ingredients--and I used 2 cups of strawberries! this bread was great--it will be in my cookbook for good because of its totally unmatched level of versatility.	2002-07-18T19:28:16Z	2002-07-18T19:28:16Z
+892	8697	5523	Dave C	Try Frying your potatoes and adding boiled eggs cut in four.Mix well in a bowl and serve.	2001-05-24T21:38:20Z	2001-05-24T21:38:20Z
+893	481	7515	Diane Fouts	I made this for Mother's Day dinner.  It was a big hit!	2001-05-24T21:38:00Z	2001-05-24T21:38:00Z
+894	8855	6357	Charishma_Ramchanda	Forget about those calories while you enjoy this dessert!!	2001-05-24T21:41:01Z	2001-05-24T21:41:01Z
+902	8717	6357	Charishma_Ramchanda	"""The colour green makes your hunger pangs grow more n more by the minute!!"		
+"Too tasty to resist!"""	2001-05-24T21:38:00Z	2001-05-24T21:38:00Z				
+904	8964	6357	Charishma_Ramchanda	Its so nutritious and filling!!!	2001-05-24T21:38:01Z	2001-05-24T21:38:01Z
+906	8947	6357	Charishma_Ramchanda	Its tooooo good to resist and once you start having it you can''t stop!!	2001-05-24T21:40:09Z	2001-05-24T21:40:09Z
+907	8658	6357	Charishma_Ramchanda	"""This recipe was published in the papers too!!!"		
+So	 what are u waiting for	 try it	" you'll love it too!!"""	2001-05-24T21:38:01Z		
+908	8894	6357	Charishma_Ramchanda	YUMMMYYYY is the only word that can describe this yummy dessert!!	2001-05-24T21:40:38Z	2001-05-24T21:40:38Z
+914	8966	2595	eboyd	This sounds like a wonderful way to can my extra tomatoes and have a sauce that will be unusual and good with pasta as well as with Indian dishes	2001-05-25T09:33:14Z	2001-05-25T09:33:14Z
+915	7803	2595	eboyd	This has got to be wonderful. I'm a lemon lover and make my coleslaw dressing with lemon juice too. Will try this this weekend.	2001-05-25T09:33:14Z	2001-05-25T09:33:14Z
+916	70137	9876	Joan Harrell	Surprising hit with my family!! I tried green chilies since I had no olives & added a pinch of sugar with the chilie powder. Good for a change.. Surely a keeper!	2001-05-25T09:33:14Z	2001-05-25T09:33:14Z
+920	7437	5999	madaline austin	This was wonderful using the original recipe.  I also changed it using venison and had a hit with the family!	2001-05-26T16:38:45Z	2001-05-26T16:38:45Z
+924	721	8629	Marie Nixon	This was easy to put together and tasted good. It is a small casserole.	2001-05-26T16:38:45Z	2001-05-26T16:38:45Z
+925	677	10227	Norma Taylor	The revipe was pretty easy.It took a while but it isnt complicated. The dish was delicious I ate too much.I suggest a sweet mellow smooth wine.	2001-05-26T16:38:45Z	2001-05-26T16:38:45Z
+"This is *not* beef stroganoff."""	2001-05-29T16:36:23Z	2001-05-29T16:36:23Z				
+934	9095	10263	Anne Walker-Black	I know the owner of this recipe...and well my 3 children and myself have a hard time keeping out of this when its on offer...sigh!	2001-05-29T16:36:24Z	2001-05-29T16:36:24Z
+935	619	10271	Mark O.	Very easy and quick to make. The only thing I changed was to add the green onion after the eggs formed. I give it five stars.  :o)	2001-05-29T16:36:24Z	2001-05-29T16:36:24Z
+936	8673	10275	LC Haxton	love it!!!!	2001-05-29T16:36:24Z	2001-05-29T16:36:24Z
+938	8801	10275	LC Haxton	love it	2001-05-29T16:36:25Z	2001-05-29T16:36:25Z
+939	686	3288	TishT	A little bland.  I'm not sure what it needs but something was missing in the blending of tastes.	2001-05-29T16:36:25Z	2001-05-29T16:36:25Z
+949	7465	10328	Beth Raymond	I made this for my parents 25th anniversary party and it was a huge hit.	2001-05-29T16:36:29Z	2001-05-29T16:36:29Z
+950	3083	10332	chris brossard	The Tortilla Lasagna was an excellent dish to make!  It was even better with sour cream and black olives on top.	2001-05-29T16:36:29Z	2001-05-29T16:36:29Z
+953	48296	4470	Bergy	This is simple to make and really is tasty. I didn't have fresh coriander so used dried instead.  I'm sure it is even better with fresh	2001-05-29T16:36:30Z	2001-05-29T16:36:30Z
+956	8483	10217	Corina Ramirez	"""This is an excellent concoction!  My guests loved it so much I had to give them a """"take out"""" bag - reluctantly!  I used  Romano and Parmesan together - it rocked."		
+Thanks	" Linda!"""	2001-05-30T13:05:32Z	2001-05-30T13:05:32Z			
+957	2601	4470	Bergy	This is a really good wholesome soup! We loved it.  I cut back on the rice (1 Cup) and added an extra 1 1/2 cups of Chicken broth as we like our soup fairly thin.  Thanks for the recipe.   It is very easy to make.	2001-05-30T13:05:33Z	2001-05-30T13:05:33Z
+959	8679	4910	sharron cant	I tried chanterells mushrooms as that was what I had and it was outstanding. Mt guests all asked for the recipe. My wine choice was [ blue moumtain pinot gris 1998]    sharron cant	2001-05-30T13:26:29Z	2001-05-30T13:26:29Z
+962	9101	9121	Carol Bullock	All I can say is...YUM!!	2001-05-30T13:26:29Z	2001-05-30T13:26:29Z
+963	7585	10291	Gina Lukhart	"""Lentilsoup is one of my favorite dishes and my Mom made it quite often because it was an inexpensive way to feed a whole family. In Germany we do not use the celery or the carrots in Lentilsoup"	 but I actually like that idea	 gives it an extra little flavor. And yes we often use ham or even brown some bacon as added flavor.
+The way I make it is	 I cut about a quarter pound of bacon into strips	 brown these	 the put in one chopped onion and let it brown slightly until golden. I add water and the desired amount of lentils. Let it cook for about an hour. In a seperate saucepan I melt 3 tbs margarine and put in 3 tbs of flour	 transfer to lentil soup and stir well	 let cook an additional half hour. Cut up some Frankfurters heat	 and serve over Spaetzle.
+"Very famous dish in every Gasthaus in Germany."""	2001-05-30T13:26:29Z	2001-05-30T13:26:29Z				
+967	83	5999	madaline austin	Why are there brussle sprouts in the breakfast catigory?  You must have amazing kids if this will go over at 7 am!	2001-05-30T17:43:12Z	2001-05-30T17:43:12Z
+971	1128	10314	Mel12730	"""Very flavorful and different(in a good way).  I added almost 2x as much spices and it was wonderful.  I will definetly make it again."		
+"                                   Mel"""	2001-05-31T15:50:48Z	2001-05-31T15:50:48Z				
+988	9035	6357	Charishma_Ramchanda	Its lovely!!!!	2001-06-01T11:06:13Z	2001-06-01T11:06:13Z
+991	3116	6357	Charishma_Ramchanda	That recipe is really inviting!	2001-06-01T11:06:13Z	2001-06-01T11:06:13Z
+995	9135	10486	Susan Mayo	I have lived in Spain for over thirty years now and I have never come across this dish...	2001-06-01T11:06:13Z	2001-06-01T11:06:13Z
+997	8369	9690	Cheryl E	almost like jamican patties	2001-06-01T18:18:24Z	2001-06-01T18:18:24Z
+998	8640	9690	Cheryl E	I've been looking for a recipe like this. The family loves it....	2001-06-01T18:18:24Z	2001-06-01T18:18:24Z
+1001	2886	7890	Deb Evert	I have tried many many banana bread recipes over the years - and this is the absolute best.	2001-06-04T11:25:24Z	2001-06-04T11:25:24Z
+1012	8678	6357	Charishma_Ramchanda	One word to describe this would be - LOVELY!!	2001-06-04T11:25:25Z	2001-06-04T11:25:25Z
+1016	8988	6357	Charishma_Ramchanda	I liked it though I wud avoid the cream!	2001-06-04T11:25:25Z	2001-06-04T11:25:25Z
+1020	9002	6357	Charishma_Ramchanda	I liked the idea of letting the chicken cook in its own juices - very nice!	2001-06-04T11:25:26Z	2001-06-04T11:25:26Z
+1027	5277	10394	Steve Brown	Some of the BEST Bread Pudding I've had in years!  You've got to try it!	2001-06-04T11:25:26Z	2001-06-04T11:25:26Z
+1028	4330	5988	Dodee Lang	We have had this casserole several times at our church functions and it always goes over big.	2001-06-04T11:25:26Z	2001-06-04T11:25:26Z
+1038	9274	3737	Diane Perry	this my daughters all time favorite	2001-06-04T11:25:27Z	2001-06-04T11:25:27Z
+1039	4296	10314	Mel12730	"""Melanie-Ballston Spa NY"		
+"  This was a great meatloaf.  I will definetly make it again.  It took longer to cook than it said and on a higher temperature but it tasted great!!!!! My boyfriend said that it was the best he ever tasted."""	2001-06-04T11:25:27Z	2001-06-04T11:25:27Z				
+1040	677	10325	Toni Ellis	"""This recipe has a great taste. Mine didn't quite stand up like lasagna though. I am going to try this as a casserole with bow tie or spiral noodles and mushrooms instead of olives."		
+"I will try to make the lasagna stand up next time I use this recipe."""	2001-06-04T11:25:27Z	2001-06-04T11:25:27Z				
+1041	1809	7503	Beverly Carson	Wow !!!  This was great.  I have been looking for a recipe that tasted like a quiche I had many years ago....I think i finally found it.  Great crowd pleaser for dinner. My compliments to the chef!!!	2001-06-04T11:25:27Z	2001-06-04T11:25:27Z
+1049	8688	6357	Charishma_Ramchanda	"""My brother loves this!!"		
+"Thankssssssssssss so so much for sharing it!"""	2001-06-04T11:25:28Z	2001-06-04T11:25:28Z				
+1050	8487	6357	Charishma_Ramchanda	I love bananas and loved this dish!	2001-06-04T11:25:28Z	2001-06-04T11:25:28Z
+1053	8996	6357	Charishma_Ramchanda	This cud b nothin less than the BEST!	2001-06-04T11:25:28Z	2001-06-04T11:25:28Z
+1054	4939	6357	Charishma_Ramchanda	This is YUMMMY!!!!! A perfect treat for chocolate lovers all over the globe!	2001-06-04T11:25:28Z	2001-06-04T11:25:28Z
+1061	476	6357	Charishma_Ramchanda	Yum Yum!! Fanta-fabulous!	2001-06-05T09:24:24Z	2001-06-05T09:24:24Z
+1063	8132	6357	Charishma_Ramchanda	Liked it!	2001-06-05T09:24:24Z	2001-06-05T09:24:24Z
+1068	9241	2625	Eli Totz	Just viewing the page reminds me how tasty it is!	2001-06-05T09:24:25Z	2001-06-05T09:24:25Z
+1069	1807	4398	Phillips Steve	"""Very good Kung Pao"	  if you have the time to prep everything in advance	 even better.  This is a must try if you like wok cooking.
+"Steve"""	2001-06-05T09:24:25Z	2001-06-05T09:24:25Z				
+1071	8475	6357	Charishma_Ramchanda	"""This is simply beautiful!"		
+"Thanks a zillion!"""	2001-06-05T09:24:25Z	2001-06-05T09:24:25Z				
+1077	2935	10233	Jenny Thetford	"""I didn't try the recipe...there seemed to be something missing from the recipe my mother gave me."		
+This recipe is from Epe in Gelderland in Holland.						
+To 2 litres of boiling beef stock (16 cups)add 500g (1lb) of minced lamb fry (liver) and 500g (1lb) minced beef. 						
+When boiling	 add salt 'til it's too salty (approx 15 teaspoons).  In addition	 add AllSpice (Pimento) 'til it's too spicy (approx 5 teaspoons).				
+Boil rapidly until meats are cooked.						
+Take the pot off heat	 then add (quickly) approx. 2lb (1kilo) white flour stirring continuously until it's a 'lump' which you can't stir anymore (you may need help with this as the arms go into heavy duty mode).  Try to ensure that the flour is evently stirred with no lumps.					
+Spoon into (floured)containers and leave to chill.						
+Turn out from container once chilled and cut into 1cm slices	 then fry in extremely hot pan with preferred oil	 butter or fat until dark brown and crispy.  (Good idea to fry outside as can leave 'blue' smoke throughout house)				
+"A great winter meal or snack...always wanting one more slice!"""	2001-06-05T09:48:58Z	2001-06-05T09:48:58Z				
+1078	2551	6345	Millielou	"""It is actually a recipe for Shrimp Mousse"	 it should be poured into a greased mold	 refrigerated
+"then unmolded onto a serving plate. It really would not freeze well because of the ingredients."""	2001-06-05T09:49:24Z	2001-06-05T09:49:24Z				
+1079	4770	10594	Johnny Chi	missing rice stick noodles snd dipping sauce. Dipping sauce: Hosin with peanut oil garlic and toasted onions with crushed peanuts	2001-06-05T09:50:08Z	2001-06-05T09:50:08Z
+1080	280	10664	Lyuda Tiurina	My spanish girl-friend gave me this receipe. We like it cold and warm (especially) and with a cup of milk.	2001-06-06T15:00:06Z	2001-06-06T15:00:06Z
+1081	6536	10684	malia akinaka	Super simple.  Very YUMMY!	2001-06-06T15:00:07Z	2001-06-06T15:00:07Z
+1083	100	10701	GEEJAY 2	was a bit fiddley but good. I used Wild Turkey bourbon instead & added a few rasins.	2001-06-06T15:00:07Z	2001-06-06T15:00:07Z
+1084	9351	10701	GEEJAY 2	Havent tried it yet but it looks great. Can over ripe bananas be used like you can use in cake.	2001-06-06T15:00:07Z	2001-06-06T15:00:07Z
+1087	9005	10711	Raj Raj	"""I tried this and this was really wonderful."		
+"Raj"""	2001-06-06T15:00:07Z	2001-06-06T15:00:07Z				
+1089	9363	6357	Charishma_Ramchanda	"""WOW!!!!!!"		
+I love chocolates and thank you so much for putting such a lovely recipe online that too on the day when I won the SPRING contest here! I'll make this cake when I call my friends over for a party to celebrate today's thrill!						
+"Thanks once again."""	2001-06-06T15:00:07Z	2001-06-06T15:00:07Z				
+1091	9219	4535	Barbara Smitley	"""This Chicken recipe tasted great"	 my family really liked it. Also the left over chicked breast made great sandwiches on a kiaser rool.	
+"It did take longer to prepare than the recipies I usually make but it was worth the effort!"""	2001-06-06T15:00:07Z	2001-06-06T15:00:07Z				
+1099	8590	8575	karen1	i fixed these wings last night and they were great the only change i made was instead of coating them in the hot sauce mixture i dropped them in the pan i was simmering the mixture in and left them there while fryng the rest of the wings then put those in for a few min.	2001-06-07T18:51:28Z	2001-06-07T18:51:28Z
+1100	5332	10775	Doreen Wright	"""The bread itself is quite good"	 although alittle bitter in taste.	
+"The crust is excellant. If anyone has a recipe for Jewish black bread for a bread machine I would love to have it."""	2001-06-11T10:33:43Z	2001-06-11T10:33:43Z				
+1101	8313	10751	Danielle Rigby	My family LOVES fennel so I thought we should give this one a go. IT WAS GREAT!!! A family fave now. Danielle Rigby - Australia	2001-06-11T10:33:43Z	2001-06-11T10:33:43Z
+1105	8670	6357	Charishma_Ramchanda	This is a favourite with us also!	2001-06-11T10:33:44Z	2001-06-11T10:33:44Z
+1107	8525	6357	Charishma_Ramchanda	Great!	2001-06-11T10:33:44Z	2001-06-11T10:33:44Z
+1109	9137	10817	julie McKenzie	"""This recipe is also very good with cheese on top!"		
+"I also like to sub. french style green beans for the corn."""	2001-06-11T10:33:44Z	2001-06-11T10:33:44Z				
+1110	7803	10826	James Nelson	I just bought a new ACME juicer with citrus attachment which will be great for making the juice for this recipe!	2001-06-11T10:33:44Z	2001-06-11T10:33:44Z
+1118	5031	6220	Chief Jack	It needs another T each of Cayene and Garlic but 1 T less Oregano (unless you use Mexican Oregano) and 3 T less salt(anybody thet wants more can add it later.)	2001-06-11T10:33:45Z	2001-06-11T10:33:45Z
+1119	4420	6220	Chief Jack	I switched olive oil for the butter(there's more than enough fat in the nuts I added!) and it was great--	2001-06-11T10:33:45Z	2001-06-11T10:33:45Z
+1120	8935	10678	Gina Wilkerson	"""Excellent and super easy to make. Served over """"plain"""" basmati rice and the combination is wonderful."""	2001-06-11T10:33:45Z	2001-06-11T10:33:45Z
+1125	142	10881	Twyla Birkbeck	"""This cake was moist and tasty and stayed that way until all gone 2 days later. My non-cake liking husband gave it a """"4""""! It was easy to make - my 6yr old and I used the full amount of almond extract and crumbled the toasted almonds by hand.  It's a great recipe for turning the """"yuck"""" bananas into something yummy."""	2001-06-11T10:33:45Z	2001-06-11T10:33:45Z
+1129	6812	4546	Gabe Geber	"""I didn't have a turnup so I substituted diced rutabaga instead. I also increased the water from two cups to four."		
+I like this soup very much.						
+"gabe geber"""	2001-06-11T10:33:46Z	2001-06-11T10:33:46Z				
+1131	3587	10290	Vicky Bryant	I make this recipe too but only add a couple dashes Tabasco and some garlic powder.  I'm going to be greedy and add all of your ingredients too!!  This is the best and easiest thing to make and there is NEVER any left.	2001-06-11T10:33:46Z	2001-06-11T10:33:46Z
+1132	8930	10678	Gina Wilkerson	excellent - took to a potluck and everyone loved it (mostly carnivores there) and didn't realize it was vegan!	2001-06-11T10:33:46Z	2001-06-11T10:33:46Z
+1133	4214	2059	Moishe Lettvin 1	Simple and elegant; it's hard to go wrong with pork & apples.	2001-06-11T10:33:46Z	2001-06-11T10:33:46Z
+1134	4214	2625	Eli Totz	Thank you!!!!!!!!  I might even celebrate Christmas...	2001-06-11T10:33:46Z	2001-06-11T10:33:46Z
+1135	7385	10923	Geoffrey Angst	"""Good"	 though I reccommend not including the beans	
+(personal taste issue)						
+Cheers						
+"Geoff"""	2001-06-11T10:33:46Z	2001-06-11T10:33:46Z				
+1137	9392	10701	GEEJAY 2	"""Was verry easy to make as I put it all in crock pot"	 using just stewing beef cheap cut no fat. Used same wine with 2 turnips	 no tomatoe soup.
+But used 2 tlbs tomatoe paste. Never browned meat & added my own fresh chilli. Thickend towards end of cooking with cornflour. I think its the best beef stew we haver tried. Thanks Adrienne:						
+"P.S Cooked for 5hrs in crock pot."""	2001-06-18T15:50:25Z	2001-06-18T15:50:25Z				
+1139	9001	6357	Charishma_Ramchanda	Nice one! Mouth watering!!	2001-06-11T10:33:46Z	2001-06-11T10:33:46Z
+1140	9366	10896	A.M. Collins	This was great! My guests had 2nd and 3rd helpings.	2001-06-11T10:33:46Z	2001-06-11T10:33:46Z
+1141	1878	10808	Jean Sheehan	"""This is one of our family favourite """"onion"""" chutneys which goes well only with tomato pilaf or coconut rice. It is also known as """"Hellflame"""""		
+"or """"Devil Chutney"""""						
+1 medium onion						
+1 tsp  chillie powder						
+2 tsps  sugar						
+pinch  salt						
+1 tabsp lemon juice						
+In a liquidiser grind all ingredients to a smooth sauce. If too sweet adjust by adding more chillie powder. If too hot	 add a bit more sugar. How easy  is that!					
+Another version of the above is to use only 1 tsp sugar and add 2 tsps sultanas. This makes it a thicker and darker sauce. Enjoy!						
+"sultanas"""	2001-06-11T10:45:36Z	2001-06-11T10:45:36Z				
+1142	8534	10896	A.M. Collins	It is a guilty pleasure but I like to live it up everyonce in a awhile	2001-06-11T11:52:02Z	2001-06-11T11:52:02Z
+1143	6625	2178	troyh	"""June 11"	 2001: I've been making tzatziki for years and this is the best one I've ever made.	
+May 15	 2005: Used a chinois to drain the yogurt and it worked great. Much easier than a cheesecloth. Only drained for 3 hours	 but turned out great again.				
+""""	2005-05-15T16:59:09Z	2005-05-15T16:59:09Z				
+1144	8927	10896	A.M. Collins	This dish is fabulous. we all loved it.	2001-06-11T11:52:03Z	2001-06-11T11:52:03Z
+1145	3273	10943	DENNIS SCHOMBURG	when canning any veg. it is best to use well water or bottled water instead of tap water because of the chlorine. I think on the garlic it means a clove instead of a head	2001-06-12T08:53:09Z	2001-06-12T08:53:09Z
+1148	6444	4546	Gabe Geber	"""I used olive oil in this recipe because I believe it imparts a nice flavor"		
+"This is a good recipe and is easy to make. I served it with chicken drumsticks and a salad."""	2001-06-12T08:53:09Z	2001-06-12T08:53:09Z				
+1172	9051	6675	Chef Luis Aguilar	I have submitted recipes for making 	2001-06-15T10:36:52Z	2001-06-15T10:36:52Z
+1177	8634	10896	A.M. Collins	This is very good. I added some parmesan and tabasco to taste.	2001-06-12T13:01:48Z	2001-06-12T13:01:48Z
+1178	3866	10864	regan moore	WOW what a great recipe!!  I served it to my family and even those who didn''t like squash loved it!!  Thanks so much for the great recipe!!	2001-06-14T08:57:37Z	2001-06-14T08:57:37Z
+1184	9290	6357	Charishma_Ramchanda	Mind blowing !!	2001-06-14T08:57:08Z	2001-06-14T08:57:08Z
+1189	9412	11000	Todd Britton	Very tasty and authentic.	2001-06-14T08:57:09Z	2001-06-14T08:57:09Z
+1192	1823	6220	Chief Jack	Darn Good!!	2001-06-14T08:58:20Z	2001-06-14T08:58:20Z
+1193	2086	11053	dragonshadow	Thank you Thank you! I have been looking for this recipe for a while.  It's great!  I'm making batch of it for my father for Fathers Day	2001-06-14T08:57:09Z	2001-06-14T08:57:09Z
+1194	8924	11064	M. SHANE ADAMS	"""We are definitely macaroni hounds and this recipe"	well' in a word  is awsome . You go girl and create more man pleasin' vegan meals like this one. Oh yeah baby just one more helpin' of this. 	
+"    M.shane (ailsa's hubby)"""	2001-06-14T08:57:09Z	2001-06-14T08:57:09Z				
+1196	8787	6357	Charishma_Ramchanda	"""WOW! A simple"	 easy to make lovely dessert!	
+Best of all is the choco-cherry!!!!						
+"You must have the mind of a genius to cook up something so cool!"""	2001-06-14T08:57:09Z	2001-06-14T08:57:09Z				
+1203	8603	8337	Amy Brown	"""This is a fantastic recipe -- only one bowl required"	 	
+and you can mix it with a spoon!  (Those are my						
+criteria).  One note -- I mix the dry ingredients						
+together before adding them in order to avoid						
+"soapy baking soda clumps."""	2001-06-15T10:36:27Z	2001-06-15T10:36:27Z				
+1207	8547	8000	John Skrable	"""Excellent.  I plan to try this."		
+What might you substitute	" if pine nuts are out of season?"""	2001-06-15T10:36:27Z	2001-06-15T10:36:27Z			
+1211	4296	11219	jakfd	"""I made this recipe for 36 people all big eaters "		
+nothing left very tastie  will do again 						
+"all fireman and ther wives"""	2001-06-15T13:33:41Z	2001-06-15T13:33:41Z				
+1212	2462	8310	Jane Rhodes-Williams	This is a good quick meal to have in a hurry.  I slice my potatoes.	2001-06-16T13:09:18Z	2001-06-16T13:09:18Z
+1213	8589	11231	Lisa Wilcox	"""Very good and creamy.  I have made this with powdered sugar which makes it even more like the mall version.  Love it"	 and drank it all the time when I was pregnant too.	
+"Easy to make if you don't mind getting the blender out."""	2001-06-16T13:09:18Z	2001-06-16T13:09:18Z				
+1214	8468	5999	madaline austin	I added sliced sweet onions and relived a dish from my grandmother's table.  Truly wonderful!	2001-06-16T13:09:18Z	2001-06-16T13:09:18Z
+1218	2802	10216	Samuel Holden	Great...I've been looking for a decent bravas recipe for ages!!!	2001-06-16T13:09:19Z	2001-06-16T13:09:19Z
+1220	9433	11109	Michael J. Esswein	yum	2001-06-16T13:09:51Z	2001-06-16T13:09:51Z
+1229	4368	11306	JB668	realy nice	2001-06-18T15:49:15Z	2001-06-18T15:49:15Z
+1231	9014	11297	Jen T	What a great quick & easy meal especially for mushroom lovers!	2001-06-18T15:49:16Z	2001-06-18T15:49:16Z
+1238	9482	11295	ThatJodiGirl	mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm!	2001-06-18T15:49:16Z	2001-06-18T15:49:16Z
+1242	9398	10896	A.M. Collins	My husband loved them!	2001-06-18T15:49:16Z	2001-06-18T15:49:16Z
+1247	3288	11475	Lubey	Very tasty recipe and easy to prepare. May go further by adding some rice or pasta or having potatoes with it.  Very impressive - my husband was very complimentary to the chef and since I very rarely cook I was pleased about that!!	2001-06-19T16:28:54Z	2001-06-19T16:28:54Z
+1249	155	10380	p malley	I made this recipe with plain soy yogurt instead of sour cream and vegetable broth in the place of the chicken broth (vegetarian style) it was very very delicious!!!!!!!!!!	2001-06-20T11:11:35Z	2001-06-20T11:11:35Z
+1250	9511	11484	Dion Belesarius	I have used this recipe often and it always goes down a treat.Many people have asked how I do it so quickly and have fantastic results.I freely give the recipe to others so they may enjoy.Even my 5 year old daughter knows how to do the recipe.	2001-06-20T11:11:35Z	2001-06-20T11:11:35Z
+1251	9429	11483	hc23532	Excellent recipe!.. So GOOD u can't stop eating them..more addictive than pringles. GOTTA TRY IT!!	2001-06-20T11:11:35Z	2001-06-20T11:11:35Z
+1252	8449	6833	mju2110	The name says it all.  FAST and EASY!  Tastes good.  Makes sure you add the Aeoli.  It really enriches the flavor or the soup.  I live in a place where fish is plentiful so I have used whatever fish is available.	2001-06-20T11:11:35Z	2001-06-20T11:11:35Z
+1254	8596	10864	regan moore	"""I enjoyed this dish very much.  My husband used to work for the olive garden"	 so he knows the alfredo sauce when he tastes it.  I used preshreaded parmesan cheeze and put it in just before i took it off the heat and it melted fine.  i also used just a touch more cream cheeze so it wouldn't be too thin which worked.  personally i thought it had too much of a cream taste.  i may next time try a little buttermilk.  	
+Good recipe	" but it needs a little tweeking if you ask me."""	2001-06-20T11:11:35Z	2001-06-20T11:11:35Z			
+1257	9370	9121	Carol Bullock	I don't understand people who rate recipes without even tasting them!  I made this and it definitely deserves 5 stars.  Yum!	2001-06-20T11:11:35Z	2001-06-20T11:11:35Z
+1259	9137	11516	Patty	I am a fan of shepherd's pie..i sometimes will use mixed veggies and then top with cheese. it is so good..	2001-06-20T15:24:19Z	2001-06-20T15:24:19Z
+1261	4545	11009	lilquiz	This was easy and delicious!! I'll have to double this one next time I make it.	2001-06-21T08:36:39Z	2001-06-21T08:36:39Z
+1262	2841	11543	PEGO229	Excellent sauce.  Good use of excess rhubarb. Meat was very moist and tender. I substituted juice for the cranberry-apple concentrate and reduced the liquid.	2001-06-21T08:36:39Z	2001-06-21T08:36:39Z
+1264	2761	6357	Charishma_Ramchanda	A REAL REFRESHER! I wish I could enjoy it along with some cold strawberry juice:)	2001-06-21T08:36:39Z	2001-06-21T08:36:39Z
+1268	506	11561	Peggi Davis	My family loves this meal! It is fairly easy and doesn't take too long to prepare. I have a large family and it is MORE than enough for the 9 of us!	2001-06-25T10:22:06Z	2001-06-25T10:22:06Z
+1269	9511	10263	Anne Walker-Black	You want light tasty no fuss scones...then this is definately the one!!! YUMMMMMMMMMM And the neat thing is ...they always come out right...good eh???	2001-06-25T10:22:06Z	2001-06-25T10:22:06Z
+1270	9488	10263	Anne Walker-Black	I have been using this recipie for a while now...its delish and a good winter standby when you can't think what too prepare for dinner.  Even the kids love it.	2001-06-25T10:22:06Z	2001-06-25T10:22:06Z
+1274	7762	11587	Sarah Danielle	Absolutely gorgeous.	2001-06-25T10:22:06Z	2001-06-25T10:22:06Z
+1276	8314	9045	Sandra Silver	"""This is a great salad or side dish!"		
+It is superb WARM	" but can be made ahead of time and perked up at the last minute with some more fresh basil and lemon juice."""	2001-06-25T10:22:06Z	2001-06-25T10:22:06Z			
+1281	8603	11589	Peanut vision	It was yummy and easy fer a redneck like me to make...	2001-06-25T10:22:06Z	2001-06-25T10:22:06Z
+1283	4508	4470	Bergy	Good recipe I'll certainly make this dish again Thanks	2001-06-25T10:22:06Z	2001-06-25T10:22:06Z
+1284	2675	11044	jean1490	"""I used the sauce with my own pizza dough recipe."		
+"It was thick and delicious.  I added 1 tsp. of sugar."""	2001-06-25T10:22:06Z	2001-06-25T10:22:06Z				
+1285	3089	11604	Joyce Laneyrie	"""I found this quiche recipe to be authentic"		
+in it's ingredients.I spent some time in a 						
+French household several years back and this						
+recipe seems almost exactly what I remember						
+the hostess preparing.						
+                   Thankyou						
+"                  joyce Laneyrie"""	2001-06-25T10:22:06Z	2001-06-25T10:22:06Z				
+1290	9527	11498	uluru 	"""Like the Pavola (from New Zealand) you have to"		
+try the traditional recipe from Down Under! Many						
+"versions but this one is yummy..enjoy...."""	2001-06-25T10:22:06Z	2001-06-25T10:22:06Z				
+1292	9267	10678	Gina Wilkerson	"""this was very tasty but Very hot/spicy just incase be careful of that if you don't like hot things!!!"		
+"My family liked it a lot."""	2001-06-25T10:22:06Z	2001-06-25T10:22:06Z				
+1294	9137	11616	heila hitchcock	You can also use frozen mixed veggies instead of sweetcorn.Very easy to make and a nice way of hiding veggies from kids .	2001-06-25T10:22:06Z	2001-06-25T10:22:06Z
+1295	7580	10470	Tammy Watere	BOOM!!!!	2001-06-25T10:22:06Z	2001-06-25T10:22:06Z
+1303	9130	11498	uluru 	"""This sounds scrumptious"	 but is there no base?	
+"Can you put it in a spring-form pan?"""	2001-06-25T10:22:06Z	2001-06-25T10:22:06Z				
+1304	8541	7768	Mary Parsons	"""This was a delicious recipe. I lightened it up a little by using only skinless chicken breast and fat free sour cream.  You could not tell that it was light as the spices filled in for the fat."		
+" Great recipe Josh."""	2001-06-25T10:22:06Z	2001-06-25T10:22:06Z				
+1305	4957	2595	eboyd	This could be made ahead and frozen in small packets for people like me who live alone and need to pull something together fast.	2001-06-25T10:22:06Z	2001-06-25T10:22:06Z
+1308	3587	11715	amandav	"""I add a 4oz can of diced green chiles. Love this recipe!! always a big hit. I call it """"the impossibly easy artichoke dip""""."""	2001-06-25T10:22:07Z	2001-06-25T10:22:07Z
+1310	7776	8571	Kirsti Piironen	"""Why would you want to add anything like mayo or sour cream? To me the basic / best """"quac"""" is just:"		
+1315	580	11297	Jen T	Easy and tasty.  Really made my steak special.  Thanks Doreen.	2001-06-25T10:22:07Z	2001-06-25T10:22:07Z
+"Maybe someday my letters to Proctor Gamble regarding the Legend of Mr. Clean will similarly resurface."""	2001-06-25T10:36:56Z	2001-06-25T10:36:56Z				
+1319	9427	7802	Mark H.	These were very smooth and had a good taste. Next time I think I'll use more cream cheese and/or sour cream and see what happens.	2001-06-25T15:51:29Z	2001-06-25T15:51:29Z
+1322	5071	11771	Melina Onassis	Absolutly delicious!!!!!!	2001-06-25T18:10:15Z	2001-06-25T18:10:15Z
+1323	9243	11119	Angela	Brilliant!  I love that there's no eggs in it.  Thank you Cheryl.	2001-06-25T18:10:15Z	2001-06-25T18:10:15Z
+1324	5275	11733	Janet1	having lived in Australia for 33years we often mentioned  english faggots we used to get before we left I was excited to find this recipe as I have often looked for it now I am dying to try it the only problem I might have is pigs liver is hard to get here but I shall keep looking I will let you Know how I turns out	2001-06-25T19:19:34Z	2001-06-25T19:19:34Z
+1325	9492	11297	Jen T	So easy and tasty.   To make the clean-up even easier I lined the baking pan with tinfoil. Thanks for sharing this recipe Kathy :)	2001-06-26T11:23:50Z	2001-06-26T11:23:50Z
+1327	8801	8632	Misha Solomon	tastes amazing!	2001-06-26T11:23:50Z	2001-06-26T11:23:50Z
+1332	9242	2625	Eli Totz	I only got one star! Whatever...she must not have even made it.	2001-06-26T17:04:05Z	2001-06-26T17:04:05Z
+1334	5347	11291	Bianca	I did like the recipe but not my husband unfortunately. He couldn't put his finger on it but I think that the main problem was missing sauce and the consistency of the whole casserole.	2001-06-26T17:04:05Z	2001-06-26T17:04:05Z
+1335	7002	9236	tracy love	hmmmmm the best	2001-06-26T17:04:05Z	2001-06-26T17:04:05Z
+"Submitted by Norris Curtis."""	2001-06-27T11:50:26Z	2001-06-27T11:50:26Z				
+1340	9549	11846	Susie	This is a great way to cook cornish game hens as well! I cook them in the oven at 375 for about an hour. I also put vegetables and spices in the beer such as garlic powder and onions.	2001-06-27T11:50:26Z	2001-06-27T11:50:26Z
+1345	4608	11871	jofun tsurabisu	it is a good meal for on the go people.	2001-07-02T16:36:10Z	2001-07-02T16:36:10Z
+1346	2681	9236	tracy love	hmmmm good  taste like i was at taco bell lol	2001-07-02T16:36:10Z	2001-07-02T16:36:10Z
+1348	9549	6415	Fancy Free	Super recipe and sooooo easy.	2001-07-02T16:36:10Z	2001-07-02T16:36:10Z
+1349	7226	11906	chef of the kitchen	this was a very good quiche but I think it could have used more cheese.	2001-07-02T16:36:10Z	2001-07-02T16:36:10Z
+1353	3351	4470	Bergy	This is a very tasty way of cooking rhubarb. I sliced fresh strawberries and added them just be fore serving and used vanilla yogurt. I love your recipes Dancer	2001-07-02T16:36:10Z	2001-07-02T16:36:10Z
+1359	3273	10896	A.M. Collins	This was pretty good. the kids like them.	2001-07-02T16:36:10Z	2001-07-02T16:36:10Z
+Thanks for your wonderful recipe and cooking site. I give recipezaar 10 stars.						
+"Nancy"""	2001-07-02T16:36:10Z	2001-07-02T16:36:10Z				
+1365	5015	4470	Bergy	""" I had a gang for dinner and made this green bean dish and everyone loved it! Thanks — Jul 2"	 2001	  I have made this so many times it is souper easy and very tasty. This time I added pictures-I hope you like them Traci & Jeff
+""""	2005-02-04T21:40:06Z	2005-02-04T21:40:06Z				
+1367	3632	12021	christine naughton	the family loves it.	2001-07-02T16:36:10Z	2001-07-02T16:36:10Z
+1377	8592	10394	Steve Brown	"""Absolutely the most delicious ribs I've ever eaten!!  Everyone raved about how good they were and wanted my recipe.  "		
+"Guess I'll have to share it with them!"""	2001-07-02T16:36:10Z	2001-07-02T16:36:10Z				
+1378	8905	7119	Kathleen Nelson	A very nice change from the usual tomato based spaghetti sauce.	2001-11-02T09:55:03Z	2001-11-02T09:55:03Z
+1379	2731	11297	Jen T	The man of the house really loved the sauce with this one.  Great:)	2001-07-02T16:36:10Z	2001-07-02T16:36:10Z
+1382	2533	4470	Bergy	I cut the recipe in half and I should have left the 3 hot chilli's my marinade was nor hot enough.  Very moist tasty chicken.	2001-07-02T16:36:10Z	2001-07-02T16:36:10Z
+1383	324	4470	Bergy	Excellent recipe!  I couldn't find any muenster cheese so I used aged gouda and it was very tasty.	2001-07-02T16:36:10Z	2001-07-02T16:36:10Z
+1385	9829	11109	Michael J. Esswein	yum	2001-07-02T16:36:10Z	2001-07-02T16:36:10Z
+1388	1451	11835	maureen hansen	This is not a barbecue recipe for pork chops as stated in title of same.	2001-07-02T16:38:26Z	2001-07-02T16:38:26Z
+1390	2032	11044	jean1490	I made this on a rainy day when we couln't barbecue.  I used 1 pound of chicken and the amount of sauce was perfect.  The sauce itself was spicy and sweet. I used ketchup and added 2 tablespoons of tomato paste.	2001-07-05T10:36:14Z	2001-07-05T10:36:14Z
+1391	1155	10896	A.M. Collins	I tried it for a picnic on sunday and it was gone in a half an hour.	2001-07-05T10:36:14Z	2001-07-05T10:36:14Z
+1397	9872	6357	Charishma_Ramchanda	Yup! All my little friends loved it more than words can ever express!	2001-07-05T10:36:15Z	2001-07-05T10:36:15Z
+1399	9841	6357	Charishma_Ramchanda	WOW! What a fabulous cake!!	2001-07-05T10:36:15Z	2001-07-05T10:36:15Z
+1400	9005	6406	Judith Fraser	I have tried this with orange gelatin and mandarin slices.  The strawberry sounds great too.  So simple yet so wonderful.	2001-07-05T10:36:15Z	2001-07-05T10:36:15Z
+1403	8794	12125	PrncsKla	Wonderful! Much better than the same old Pasta Salad. So simple too! Perfect with any BBQ food.	2001-07-05T10:36:15Z	2001-07-05T10:36:15Z
+1408	9869	9133	Cyberspace Monkey	"""Thank you for this recipe. We just had it served to us at a pot luck and the lady that made it said she found it in here. It was delicious."		
+"She also added a little bit of browned cocoanut to it. (She heated up the cocoanut in fry pan just until it lightly browned)"""	2001-07-05T10:36:15Z	2001-07-05T10:36:15Z				
+1412	9187	6164	Mini Ravindran	"""Very simple and workable...thanx for sharing the same with all of us."		
+Do you have some more recipes like this which are not very						
+elaborate to make and try ?						
+Smiles 						
+"Mini"""	2001-07-05T10:36:15Z	2001-07-05T10:36:15Z				
+1417	3493	10901	Tracey Tracey	this was a great recipe.  Easy to make. I prepared it ahead of time and threw it in the frig. Cooked the next day and it was wonderful.  Great taste.  Would make this one again	2001-07-05T10:36:15Z	2001-07-05T10:36:15Z
+1418	7537	12174	Snicker032	Its great for any type of pie. I would use a 9 inch pie pan.	2001-07-05T10:36:15Z	2001-07-05T10:36:15Z
+1419	4608	11927	otto4608	"""even though i made some modifications it was still"		
+"very yummy"""	2001-07-05T10:36:15Z	2001-07-05T10:36:15Z				
+1420	8533	10997	mkorte33	"""The """"Black"""" in """"Shirley Temple Black"""" is actually her married name.  She married Charles Black in 1950 and added """"Black"""" to her original name."""	2001-07-05T10:36:15Z	2001-07-05T10:36:15Z
+1422	3294	12153	JoAnn Toczek	I added cayenne and increased the spiceyness but otherwise followed the recipe and it was great. Can't believe I made fried chicken (first time its been edible)!	2001-07-05T10:36:15Z	2001-07-05T10:36:15Z
+1428	9186	12200	Tom Lambie	Very Good and moist	2001-07-05T10:36:15Z	2001-07-05T10:36:15Z
+1429	9456	11044	jean1490	"""Very delicious and easy to make. "		
+"I will cut back on the brown sugar next time."""	2001-07-05T10:36:15Z	2001-07-05T10:36:15Z				
+1430	9115	1634	Bill Hilbrich	"""A sweet/sour dressing with a little punch ... I really like this one.  I have just added this dressing to just enough sour cream to make a dip for chips. I also smeared the dressing/ sour cream mixture on a couple hot dogs"	 and both experiments were Great!!	
+""""	2001-07-05T10:36:15Z	2001-07-05T10:36:15Z				
+1431	7465	12205	Trisha Harmon	"""Our wonderful Pastor and his daughter were at home roughing it while our Pastors wife was in the hospital after a major surgery. Each family signed up for a day that we would take a meal to the Pastors home. I chose this meal as my selection. It was without exception loved by all. In fact"	 I have passed this website on to all of my friends. Thank you for such an outstanding job on this recipe and the many others that people take the time to send in. They are truly apprecitaed all over the world.	
+" Trish from North Dakota"""	2001-07-05T17:28:10Z	2001-07-05T17:28:10Z				
+1432	3595	12200	Tom Lambie	I have made this cake many times and it is always a hit.  Try replacing the dark chocolate cake mix with German Chocolate cake mix for a less chocolate cake.  It is good also.	2001-07-05T17:28:10Z	2001-07-05T17:28:10Z
+1434	7776	5362	Becky	This is delicious and I agree that it is great because you can use ingredients that you have on hand.  It is not a traditional Guacamole but is more like a delicious advocado dip.  I would definitely make it again!	2001-07-05T17:28:10Z	2001-07-05T17:28:10Z
+1435	4367	4470	Bergy	"""I know that I did something wrong!  The flavor was there but it was too """"Gooey"""".  Firstly I used fresh frenched beans instead of frozen.  I think this took away some of the added moisture that would thin the cheese/onion sauce.  I'll try again!"""	2001-07-06T11:15:21Z	2001-07-06T11:15:21Z
+1437	9974	3593	kristin bergen-lynch	This spinach dip is the best!!!!	2001-07-06T11:15:49Z	2001-07-06T11:15:49Z
+1439	9996	6357	Charishma_Ramchanda	"""Methi is very good for health and curd has a cooling effect on the body."		
+"This roti is enjoyed in India generally in the winter months."""	2001-07-06T11:15:21Z	2001-07-06T11:15:21Z				
+1448	9998	12200	Tom Lambie	A great snack food or a main dish.  My kids just love this chili.	2001-07-06T11:15:22Z	2001-07-06T11:15:22Z
+1449	8554	12241	Brenda3	I tried the casserole with broccoli cheese soup.  I think it added to the recipe.	2001-07-06T11:15:22Z	2001-07-06T11:15:22Z
+1450	9985	12200	Tom Lambie	A wonderful Brownie made from scratch.	2001-07-06T11:15:22Z	2001-07-06T11:15:22Z
+1457	9305	6357	Charishma_Ramchanda	A very filling sweetdish!	2001-07-09T10:33:50Z	2001-07-09T10:33:50Z
+1462	8741	11811	Acquafresca	"""I made this recipe in a non-alcoholic version and it was a major hit at my neighbors pool party! The drink was beautiful and impressed everyone!"		
+"The kids were especially thrilled with them and tried to drink only one flavor at a time."""	2001-07-09T10:33:50Z	2001-07-09T10:33:50Z				
+1468	9400	12279	cheripie33	This is one great recipe! My husband said he could eat this at least 3 times a week.	2001-07-09T10:33:50Z	2001-07-09T10:33:50Z
+1472	10019	12200	Tom Lambie	This recipe is so easy to make.  Nothing smells and taste better than something made from apples in the fall of the year.	2001-07-09T10:33:50Z	2001-07-09T10:33:50Z
+1478	2636	12296	Eileen Elliott	The best and easiest on the web	2001-07-09T10:33:50Z	2001-07-09T10:33:50Z
+1481	42917	11811	Acquafresca	This was delicious!	2001-07-09T10:33:50Z	2001-07-09T10:33:50Z
+1483	9506	12307	Sally	So easy! I have three boys and they all love it! It's a recipe even a teenager can make!	2001-07-09T10:33:50Z	2001-07-09T10:33:50Z
+1486	2405	12318	Ron Willis	"""To me it tasted alot like watermelon lemonade to me.It was fun to make the rest of the family drank it"	I went and bought a strawberry soda.	
+The Crazy Cajun						
+"Ron"""	2001-07-09T10:33:50Z	2001-07-09T10:33:50Z				
+1487	9826	12038	Lesa1181	this is so good!  Easy to make and fun to eat.	2001-07-09T10:33:50Z	2001-07-09T10:33:50Z
+1488	5402	7119	Kathleen Nelson	A very nice change from the boring mayoniase based salad. Love the heat.	2001-07-09T10:33:50Z	2001-07-09T10:33:50Z
+1494	10053	12200	Tom Lambie	What a great tasting salad.  Full of flavor. I make it a lot to take to family outings.	2001-07-09T10:33:51Z	2001-07-09T10:33:51Z
+1495	10050	12200	Tom Lambie	Wow a great recipe for German Potato Salad.  I tryed many a recipe and this one is the best I have ever had.	2001-07-09T10:33:51Z	2001-07-09T10:33:51Z
+1499	9362	12307	Sally	OMGosh! This is sooooo good! I made it for the office and the women loved it!	2001-07-09T10:33:51Z	2001-07-09T10:33:51Z
+1508	3508	11674	chef 11674	I have made a similar recipe for years (don;t include the onions and I also add dill weed.) I serve the tuna on a bed of salad greens for a great lunch or lite main course.	2001-07-09T10:33:51Z	2001-07-09T10:33:51Z
+1509	10075	6164	Mini Ravindran	"""Easy and tastes wonderful ! Really good for someone working like me who can come home in the evening and cook something like this  and even goes well with the guests . Thanks for sharing with all of us."		
+Smiles						
+"Mini"""	2001-07-09T10:35:52Z	2001-07-09T10:35:52Z				
+1510	10080	6357	Charishma_Ramchanda	Lovely! Pass on a kiss to your grandma from my side for such a lovely cake!	2001-07-09T10:36:02Z	2001-07-09T10:36:02Z
+1511	10088	6357	Charishma_Ramchanda	It brightened up the day and added to the romance in the air:)	2001-07-09T10:33:51Z	2001-07-09T10:33:51Z
+1515	10086	12200	Tom Lambie	You have to try this recipe....	2001-07-09T10:33:51Z	2001-07-09T10:33:51Z
+1518	9493	12385	Amy Lee	This Is A Very Good Cake! My mother Has Been making it since the 80's and everytime she makes it there is not even a crumb left and always someone that wants the recipe. It is great to take to pot-lucks.	2001-07-09T11:22:25Z	2001-07-09T11:22:25Z
+1521	9978	12386	Lorraine1	very delicious and easy to make	2001-07-09T11:22:50Z	2001-07-09T11:22:50Z
+1523	10047	12258	Soraiya Wilkins	Thanks Danielle!  I will give this a try.  It sounds delicous!! Have a TERRIFIC Week!	2001-07-10T12:11:58Z	2001-07-10T12:11:58Z
+1524	6776	12398	Sally1	I have made this in the past and it is delicious!	2001-07-10T12:11:58Z	2001-07-10T12:11:58Z
+1525	8698	10314	Mel12730	tasted great w/ lots of flavor.  We both loved it and I will make it again soon.  I would give it a try.	2001-07-10T12:11:58Z	2001-07-10T12:11:58Z
+1526	481	9903	Elsa Shanahan	"""After doing a comparison"	 my family and I both agree that this recipe came out even better than Olive Garden's!	
+P.S.						
+"If you use Campbell's Beef Broth it comes out the best!"""	2001-07-10T12:11:58Z	2001-07-10T12:11:58Z				
+1528	1320	12250	Jennifer Schultz	I did not have soy sauce so I used teriyaki sauce and this was wonderful!  I used it on a steak I later grilled and then on chicken breasts I panfried.  Both tasted great!	2001-07-10T12:11:58Z	2001-07-10T12:11:58Z
+1529	10020	12200	Tom Lambie	This recipe is the geatest.  So easy and what a flavor.  If you like cherries you got to try this.	2001-07-10T16:23:19Z	2001-07-10T16:23:19Z
+1531	8670	12420	bschica	This reciepe sucks..... u need to make a reciepe that u can cook on the stovein 30 minutes or less	2001-07-10T16:23:19Z	2001-07-10T16:23:19Z
+1533	3610	11523	Katrina Bourne	easy to make and delicious	2001-07-11T09:01:12Z	2001-07-11T09:01:12Z
+1534	5472	11187	polly4	really wonderfull the recipe makes 12 muffins	2001-07-11T09:01:12Z	2001-07-11T09:01:12Z
+1535	10104	11674	chef 11674	Now that I have made this several times I would double the ingredients for the marinade to make the final sauce more flavorful.	2001-07-11T09:01:12Z	2001-07-11T09:01:12Z
+1541	10125	12200	Tom Lambie	One of the best chocolate chip cookies I have ever made.	2001-07-11T09:01:12Z	2001-07-11T09:01:12Z
+1544	10123	12200	Tom Lambie	So easy and so rich tasting cookie	2001-07-11T09:01:12Z	2001-07-11T09:01:12Z
+1547	5466	12491	Christine	"""I used to crave weird things when I was pregnant... but...""""I"""" couldn't even eat this! Oh my!!! "		
+"So glad it turned out to be a joke!! haha"""	2001-07-12T11:29:07Z	2001-07-12T11:29:07Z				
+1549	3091	10678	Gina Wilkerson	I just finished cleaning out our cats litter pan and have NO IDEA why anybody would want to RECREATE the look of it in a CAKE!!! this is definitely in the To-each-their-own category!!	2001-07-12T11:29:07Z	2001-07-12T11:29:07Z
+1551	9812	12517	Tom28400	"""This was a great dish!"		
+Easy to prepare	 easy to locate ingredients	" simple preparation and my four year old loved it! Who could ask for more?"""	2001-07-12T11:29:07Z			
+1559	10134	12200	Tom Lambie	A quick recipe that is high on flavor.	2001-07-12T11:29:08Z	2001-07-12T11:29:08Z
+1560	10141	12200	Tom Lambie	A wonderful tasting sandwich.  The kids go crazy for and so easy to prepare.	2001-07-12T11:29:08Z	2001-07-12T11:29:08Z
+1561	8665	12069	brendab	Excellent meal that whips up in minutes!  I made it on a lunch hour.  You could add more vegetables if you desired to give it variety.	2001-07-12T11:29:08Z	2001-07-12T11:29:08Z
+1563	9254	6127	Eva Mann	My Family enjoyed this very much	2001-07-13T09:15:29Z	2001-07-13T09:15:29Z
+1564	4762	12392	gina2452	i add smoked sausage slices and black or red beans to this recipe. mmm good!	2001-07-13T09:15:29Z	2001-07-13T09:15:29Z
+1565	445	12568	Tammy	It was very good. Easy to make that was the best part.	2001-07-13T09:15:29Z	2001-07-13T09:15:29Z
+1566	13307	11065	Ssmilesss	"""this is an awesome recipe except that it took me more that 6 minutes per sheet.. i put the cookies in for at least 15 minutes each.. and they were not burnt"	 nor were they undercooked.. 	
+"it was a big hit with my family and coworkers.."""	2001-07-13T09:15:29Z	2001-07-13T09:15:29Z				
+1567	10159	12200	Tom Lambie	This cake is the moistest cake I have ever tryed.  What a wonderful way to eat zucchini.	2001-07-13T09:15:29Z	2001-07-13T09:15:29Z
+1568	10154	12200	Tom Lambie	One of the best cakes I have ever tasted	2001-07-13T09:15:29Z	2001-07-13T09:15:29Z
+1574	8665	12392	gina2452	this is good very close to my own recipe. i serve with crackling cornbread.	2001-07-13T09:15:29Z	2001-07-13T09:15:29Z
+1575	4762	10314	Mel12730	Tasted great!!  Should give it a try very easy and has alot of flavor	2001-07-13T10:11:18Z	2001-07-13T10:11:18Z
+1576	2901	10314	Mel12730	Very easy to make and tasted great.  I will definitely make it again.  The fish has so much flavor.  Yumm!!!	2001-07-13T10:11:18Z	2001-07-13T10:11:18Z
+1577	9861	12392	gina2452	this was a new one on me it' really good.	2001-07-16T10:41:15Z	2001-07-16T10:41:15Z
+1578	10165	12392	gina2452	this is the best family loves it  THANKS:)	2001-07-16T10:41:15Z	2001-07-16T10:41:15Z
+1579	632	12585	random violinist	"""Right out of the oven the muffins were very good"	 but when cool	 they lost some flavor.  
+"Maybe some salt would help?"""	2001-07-16T10:46:55Z	2001-07-16T10:46:55Z				
+1580	8566	12600	pjsjlipp	"""This recipe was great. My husband thought they were just great"	 and takes them for breakfast.	
+I added 1T. of cinnamon to the batter	" 1/2 cup of coconut and 1/2 cup of wheat bran."""	2001-07-16T10:41:15Z	2001-07-16T10:41:15Z			
+1581	4269	10511	Narda Sterling	"""Have been making these potatoes cake for some near forty years and they always been a winner.They are must recipe to have in ones recipe file. They make a great snack or a light meal.They are easy to make coked in a little butter. I like them when some flour is added. Narda"		
+"   ps. Instead of oil I use an egg."""	2001-07-16T10:41:15Z	2001-07-16T10:41:15Z				
+1582	3866	12619	Kim7459	My family and I really enjoyed this dish. But next time I will have less bread crumbs on top. I did add one chopped green bell pepper to it. Which was great.	2001-07-16T10:41:15Z	2001-07-16T10:41:15Z
+1597	155	12674	Kaz4054	Perfect for summer.  Throw 2 good sized radishes into the mix for a splash of gorgeous color and a bit of tang.	2001-07-16T10:41:16Z	2001-07-16T10:41:16Z
+1598	10150	12678	bOoTyLiCiOuS 	Very easy to make and great to freeze for popsiciles	2001-07-16T10:41:16Z	2001-07-16T10:41:16Z
+1599	10206	12696	Katie2	I actually loved the Party Punch - I made it with one big bottle of ginger ale.  I wasn't sure what size the two bottles were supposed to be that were called for in the recipe. Over all it was simple - and went quite quickly.	2001-07-16T10:41:16Z	2001-07-16T10:41:16Z
+1600	4296	11985	MarcelleP	"""This was a really easy reciped and its good enough to do it again."		
+Next time I will put less brown sugar and more tomato sauce for the topping because my family would prefer if its less sweet.						
+My family is a bit crasy about cheese so	 i'll put more cheese too	" the next time."""	2001-07-16T10:41:16Z			
+1601	8534	12709	NME9020	very good and my kids loved it!!!	2001-07-16T10:41:16Z	2001-07-16T10:41:16Z
+1603	10104	11297	Jen T	Really great. Sometimes I also add some thinly sliced carrot. The orange & green look really good together.  I serve over boiled rice.  Cheers :)	2001-07-16T10:41:16Z	2001-07-16T10:41:16Z
+1605	9975	11787	kevin kerr	"""I doubled the amount of coffee powder in this recipe & found it to have a bit more """"oomph"""""		
+"a very nice muffin"""	2001-07-16T10:41:16Z	2001-07-16T10:41:16Z				
+1607	1574	4470	Bergy	"""I love this dish. To me it is a winter comfort food.   I think that after  you say to add water to the potatos it should say """"boil until tender and drain"""".  Am I right? And then add the kale etc."		
+"Thanks for sendind this in!"""	2001-07-16T10:41:16Z	2001-07-16T10:41:16Z				
+1608	8336	4470	Bergy	We really enjoyed this chicken! I added the oregano to the marinade and tripled the garlic. Love garlic!	2001-07-16T10:41:16Z	2001-07-16T10:41:16Z
+1609	10217	6164	Mini Ravindran	Sounds good !	2001-07-16T10:41:16Z	2001-07-16T10:41:16Z
+1613	8968	12714	Shelley aka Rachelle	"""Delicious!"		
+My houmous recipe is similar but without the cumin. Always top with extra virgin olive oil; never use vegetable oil (it won''t give the authentic	 rich	 fragrant middle-eastern taste or fragrance).				
+For a change: rub pita bread with cut garlic cloves-brush with olive oil-toast in oven until crispy and cut into triangles.  Or just scoop it up with non toasted pita.						
+Serve with olives-middle-eastern	 small green ones	 if you can find them (Atlantic Ave.	Brooklyn	 or in a city with a large arabic population	 look for an Arab grocery).	
+Or	 try Nichoise olives (French	" small black)."""	2001-07-16T10:42:54Z			
+1624	9370	10699	HRH Alexia Windsor	hey everyone  chex are a type of cereal made by general mills	2001-07-16T10:43:38Z	2001-07-16T10:43:38Z
+1627	9808	11044	jean1490	Nicely spiced and moist. We liked the subtle lemon accent. I made one loaf and used the remaining dough to make 10 muffins.  I baked these for about 25 minutes.	2001-07-16T10:56:09Z	2001-07-16T10:56:09Z
+1636	7237	11697	SHARON	This recipe didn't work for me.  I question only 1/3 cup of flour.  The directions were confusing too.	2001-07-17T12:18:21Z	2001-07-17T12:18:21Z
+1639	8507	12756	skat1	"""This recipe is *awesome*"	 but here's a nifty little hint:	
+Instead of regular mozzarella	 use buffalo mozzarella.  Add cucumbers to this dish	 and spoon a homemade salsa relish (think tomatoes	 not heat) on top of the cheese.			
+"A superb little dish!"""	2001-07-17T12:18:22Z	2001-07-17T12:18:22Z				
+1641	8756	12638	Linda Kadlec	This is an excellent light dessert!! THREE THUMBS UP!	2001-07-17T12:18:22Z	2001-07-17T12:18:22Z
+1642	5478	11297	Jen T	Easy and tasty.   Even easier clean-up by lining baking dish with tinfoil.    Great :)	2001-07-17T12:18:22Z	2001-07-17T12:18:22Z
+1648	10232	12200	Tom Lambie	Great tasting pickles.	2001-07-17T12:20:52Z	2001-07-17T12:20:52Z
+"Also get it right; I am arrogant and incredibly beautiful."""	2001-07-17T12:18:22Z	2001-07-17T12:18:22Z				
+1653	9257	8000	John Skrable	Cool.  I would use extra virgin olive oil.  Also I would add a tsp of sesame seeds.	2001-07-17T12:18:22Z	2001-07-17T12:18:22Z
+You can also add a dash of nonfat yogurt	" a sprinking of pepper and garnish with chopped corriander leaves. Adds a nice tang to the salad..."""	2001-07-17T12:18:22Z	2001-07-17T12:18:22Z			
+1657	4715	12751	Dawn4	This recipe is as good as it is simple. I have been lookig for a recipe that tasted as good or at least close to my grandmothers Corn Casserole. I found this one to meet my expectations. It is quick and easy to make with the simplest of ingredients. Best yet my two girls ages 6 & & love this and they never liked corn before!	2001-07-17T12:20:28Z	2001-07-17T12:20:28Z
+1659	9767	12790	K1333	"""Alright - I'm notoriously a bad cook.  My previous menu mostly included cereal with milk and take-out."		
+Call me crazy	 but I got ambitious a little bit ago	 and decided I was going to cook up a meal for a date.				
+It must have been divine intervention	 because for some reason I actually chose this intimidating recipe.					
+Well - hallelujah! Amazingly it turned out fantastic!						
+I even impressed my gourmet chef boss with the left-overs.						
+I am very impressed with this one.						
+Thanks!						
+I'm serving it tonite for a dinner date - also including rice and maybe some bread - most likely bisquits and honey (ok - so I'm no gourmet).						
+I think this also goes well with a semi-dry white wine.						
+""""	2001-07-18T08:17:41Z	2001-07-18T08:17:41Z				
+1660	8927	10678	Gina Wilkerson	I am really fond of this dish. It keeps well for leftovers - gets better even! Be careful on the amount of spices- I used too much cinnamon... Carol-  for dummies like me you should put some approx amounts..	2001-07-18T08:17:41Z	2001-07-18T08:17:41Z
+1664	7429	12832	Lisa Barnes	"""My husband is a pickled egg fanatic and thought these were the best he has ever had """"don't tell his grammy that"""""""	2001-07-19T10:03:21Z	2001-07-19T10:03:21Z
+1666	2774	8728	Ashley U	The bread is tasteless.	2001-07-19T10:03:21Z	2001-07-19T10:03:21Z
+1668	10263	12868	mary2	quick and easy to make tastes very nice	2001-07-19T10:03:21Z	2001-07-19T10:03:21Z
+1670	267	4470	Bergy	This is an  excellent recipe! A little trick I use is to put the potatoe shells in the oven before stuffing them for a few minutes so they get quite crisp and then fill them and continue as in your recipe. Thanks for reminding me I haven't made these for some time	2001-07-19T10:03:21Z	2001-07-19T10:03:21Z
+1672	7195	12892	Amie3710	"""This is a great recipe!  You can also dredge the """"scotch eggs"""" through egg and flour and then roll them in bread crumbs.  You can also fry them this way or bake them at around 450 for a healthier version."""	2001-07-19T16:32:44Z	2001-07-19T16:32:44Z
+1674	5106	12895	pop2649	best i''ve had in a long time 7/19/01	2001-07-19T16:33:03Z	2001-07-19T16:33:03Z
+1678	2691	12412	Kevin J. Phillips	"""I used this recipe last night and it turned out pretty well.  I can see where the sauce can become overly thick if too much starch is used."		
+Regards						
+"Kevin"""	2001-07-19T16:32:56Z	2001-07-19T16:32:56Z				
+1688	9782	12812	debbie mc	excellent..my whole family love's it...yummy.	2001-07-23T15:04:50Z	2001-07-23T15:04:50Z
+1700	5483	12678	bOoTyLiCiOuS 	this dip is realy good and i suggest dipping your fav. fruits in this it is really good that way	2001-07-23T15:04:50Z	2001-07-23T15:04:50Z
+1701	556	12305	LD3576	I didn't like this one.  Too much yeast for our taste.	2001-07-23T15:04:50Z	2001-07-23T15:04:50Z
+1721	5170	6566	Jim Kilgore	Have used the recipe several times. Grandkids love them!	2001-07-23T15:04:51Z	2001-07-23T15:04:51Z
+1722	5174	9869	Evie3234	"""Didn't know what sort of olives to use...so I used black olives...really tasty...thanks Bill.  =) I thought at the time it must mean green olives...I had none...and am a sucker for black ones anyway....didnt use many....will try it again with green....love this type of recipe."		
+""""	2001-07-23T15:04:51Z	2001-07-23T15:04:51Z				
+1729	10118	12777	Lily6725	Way too complicated.	2001-07-23T15:04:51Z	2001-07-23T15:04:51Z
+1734	7917	12657	Anu_N	"""Very tasty"	 but rather heavy smoothie. I'd like to try this recipe using water instead of milk	 but that would make it a slush. Perhaps substituting half the milk with cold water would serve the purpose as well. 
+"The honey offers a very nice flavour to this smoothie."""	2001-07-23T15:04:51Z	2001-07-23T15:04:51Z				
+1735	3734	12972	Bill1	"""Tried last night...Good but I prefer modifications similar to this recipe used with a base of the """"original shake & bake"""" Bill"""	2001-07-23T15:04:51Z	2001-07-23T15:04:51Z
+1738	6971	13041	duana reece	best and easiest reipe for bread and butter pickles i've ever used! crisp and tasy when opened	2001-07-23T15:04:51Z	2001-07-23T15:04:51Z
+1739	6992	13014	Greta Webster	Easy to do and wonderful tasting!!!	2001-07-23T15:04:51Z	2001-07-23T15:04:51Z
+1751	9313	6357	Charishma_Ramchanda	This sweet has been my childhood and teenage time favourite. The way to my heart is through this sweet:)	2001-07-23T15:04:51Z	2001-07-23T15:04:51Z
+1756	9504	13099	Sherry	"""Our family has enjoyed a couple of variations of this delicious summer appitizer. "		
+It can be made with refrigerated Pillsbury French Bread Dough	 baked according 					
+to directions	 cooled completely	and sliced into 1/4 inch pieces. We have used 				
+dried dill weed to sprinkle on top instead of the paprika. I prefer the spread to be 						
+not so firm	 so I add 2T of mayonnaise to the mixture. This makes it more like a dip 					
+consistency	" but it is easier to spread over soft bread."""	2001-07-23T15:04:52Z	2001-07-23T15:04:52Z			
+1757	10209	7802	Mark H.	Easy to make and pretty tasty.	2001-07-23T15:04:52Z	2001-07-23T15:04:52Z
+1758	10207	6406	Judith Fraser	Very easy recipie and satisfying.  I substituted tomato sauce for the soup and added a dash of garlic salt.  If you like stuffed peppers this is almost exactly like it only without the peppers.	2001-07-23T15:07:55Z	2001-07-23T15:07:55Z
+1761	9078	11199	Margaret	this cheeseball reciepe is also beautifil with a bit if drained crushed pinapple added...	2001-07-23T15:10:07Z	2001-07-23T15:10:07Z
+1763	432	13138	ann12202	this is the easiest pie to bake  it really sound good i will be baking it very soon	2001-07-24T11:38:40Z	2001-07-24T11:38:40Z
+1771	8739	4470	Bergy	I don't know if I enjoyed the quacamole or the intro to this recipe the most.  Both are great!	2001-07-24T11:38:40Z	2001-07-24T11:38:40Z
+1773	9410	8908	Marg Berger	Cook it at 375 for 3 hours. I would think that it qould be burnt to a crisp.	2001-07-24T13:39:36Z	2001-07-24T13:39:36Z
+1777	5060	12943	will28	why no walnuts??? omega 3 fatty acids...let's compromise and make it half walnuts half pecans	2001-07-24T13:44:17Z	2001-07-24T13:44:17Z
+1780	8937	6789	Maryann Starn	Very tropical - A use for your aging bananas- slice and freeze then when you want to make a smoothie you add bananas as your cold base instead of ice.	2001-07-25T10:28:08Z	2001-07-25T10:28:08Z
+1781	8949	6897	Bill Nilsen	This was delicious!  I ate 'em in two sittings.	2001-07-25T10:28:08Z	2001-07-25T10:28:08Z
+1782	9795	12944	cota39	"""This Zucchini cobbler recipe was soooo good!"		
+It even fooled the kids	 they thought it was apple cobbler.I substituted the butter with a low fat butter because my husband and I are watching our weight. I thought maybe the substitute would ruin the recipe	" but we could not tell.This was our first recipe from this site and we are excited to have found it. Thanks!"""	2001-07-25T10:28:08Z			
+1787	10381	6357	Charishma_Ramchanda	Very easy and nice!	2001-07-25T10:28:08Z	2001-07-25T10:28:08Z
+1788	8779	13206	Anu Hangal	"""This is a very nice reciepie"	 and its not too much of a hassels	 for the spinach lovers this is one of the good reciepies to be added to thier list.
+thanks						
+"Anu Hangal"""	2001-07-25T10:28:08Z	2001-07-25T10:28:08Z				
+1790	10316	11466	Charlene Pilcher	"""Dear Claire: Thanks for the cake recipe using the egg yolks up. I haven't made it yet but plan to this week as I have company coming for the weekend including some teenage grandsons. Chocolate cake is always a hit with them."		
+"                Fondly Charlene Pilcher"""	2001-07-25T10:28:08Z	2001-07-25T10:28:08Z				
+1792	6604	12538	Nance K	"""There is no way this serves 12"		
+Waht is the correct amount of flour???						
+"anyone??? [Editor note: flour updated from 3 tablespoons to 3 cups 1/11/2001]"""	2001-07-25T10:42:03Z	2001-07-25T10:42:03Z				
+1794	8053	12118	Tara1183	a little too moist but excellent and I didnt care if they werent a perfect pocket burger.	2001-07-26T09:18:26Z	2001-07-26T09:18:26Z
+1804	686	12944	cota39	I made this recipe up the night before in the crock pot and when I got home the aroma was great and it was fabulous!	2001-07-26T09:18:27Z	2001-07-26T09:18:27Z
+1805	8594	11195	Wilz3075	This recipe is so simple and so nice it's just awesome	2001-07-26T09:18:27Z	2001-07-26T09:18:27Z
+1808	4792	6357	Charishma_Ramchanda	It was something so easy to make and so delicious and yummy!!!!!!!!!!!!!!!!!!!!!!	2001-07-26T09:18:27Z	2001-07-26T09:18:27Z
+1813	10248	12392	gina2452	I freeze mine dont know too much about canning my grandmother always used a water bath.	2001-09-07T10:28:05Z	2001-09-07T10:28:05Z
+1815	1034	13285	Susan3	I had to cook a little longer but they are very good....	2001-07-27T10:36:13Z	2001-07-27T10:36:13Z
+1816	9425	12129	Kathleen Talbot	Very tasty and fun to make!  I made it with steak and it was a definate crowd pleaser.  The lime gave it a nice zing!	2001-07-27T10:36:13Z	2001-07-27T10:36:13Z
+1817	9713	12129	Kathleen Talbot	This was fabulous!  I would add some tabasco sauce though because it wasn't quite spicy enough for my tastes.  The cream cheese really mellows out the spice.  Very yummy!  The kids in my house were licking the bowl.	2001-07-27T10:36:13Z	2001-07-27T10:36:13Z
+1818	9015	13301	Lauren Clark	It was awesome!  The bacon bits gave it a great flavor!!!!!	2001-07-27T10:36:13Z	2001-07-27T10:36:13Z
+1820	9985	11720	Ida9572	Delicious. Rich and moise. Easy to make	2001-07-27T10:36:13Z	2001-07-27T10:36:13Z
+1822	10385	11368	CHRISTINE whittaker	Just made this and it is absolutely beautiful so easy to make - well worth trying	2001-07-27T10:36:13Z	2001-07-27T10:36:13Z
+1824	9099	11697	SHARON	Absolutely delicious!	2001-07-27T10:36:13Z	2001-07-27T10:36:13Z
+1828	6971	13347	Jackie Rose	"""This recipe is almost like the one and I have made for at least 30 years."		
+It was handed down to me from my grandmother...To add to this recipe						
+I add 2 green and 2 red peppers sliced thin also...While heating	 add several					
+cloves of garlic...I also process in a hot water bath for at least 10 min. just to be 						
+"on the safe side....I have taken several """"blue ribbons"""" with this recipe."""	2001-07-28T11:44:23Z	2001-07-28T11:44:23Z				
+1832	9808	13353	Donna2	this zucchini bread is the best!	2001-07-28T11:44:23Z	2001-07-28T11:44:23Z
+1844	9546	10678	Gina Wilkerson	Another winner! I just love being able to count on your recipes Carol! They are all so great and this was very easy. Of course zero calories right?	2001-07-28T11:44:24Z	2001-07-28T11:44:24Z
+1853	8555	4470	Bergy	Very easy and great tasting. I used Gouda and it came out with a nice soft flavor.	2001-07-30T09:36:22Z	2001-07-30T09:36:22Z
+1854	2734	4470	Bergy	I love hamburgers and usually have at least one a week.  This was good! I added 3 crushed garlic cloves and it gave a bit of extra zip.	2001-07-30T09:36:22Z	2001-07-30T09:36:22Z
+1869	9814	13433	Oofda	"""Thanks for the post.  I was looking all over the net for my grandparents and I found your receipe.  Thank you"	 Thank you.	
+"Oofda"""	2001-07-30T09:36:23Z	2001-07-30T09:36:23Z				
+1870	9785	4470	Bergy	"""I cut the thyme in half and doubled the pepper. I used skinless bonless.  Good recipe Thanks!"		
+""""	2001-07-30T09:36:23Z	2001-07-30T09:36:23Z				
+1871	8483	12628	Lesley Morton	This dip is fabulous and makes a large quantity.  I am freezing half of it before baking it and expect it to be just as good when I serve it later.  This recipe combines sooooo many good things - it's the best I've ever tried!	2001-07-30T09:36:23Z	2001-07-30T09:36:23Z
+1872	7064	13429	lu spillman	I make these patties with grated carrots and onions added... they are great	2001-07-30T09:36:23Z	2001-07-30T09:36:23Z
+1873	9240	12491	Christine	This dessert is very easy to make and tastes GREAT!!!	2001-07-30T09:36:23Z	2001-07-30T09:36:23Z
+1876	1605	7308	Kat2355	"""I accidentally mixed the chocolate chips in the cake"	 but it turned out ok anyway.	
+It's a little on the dense side (even with sifting and being careful not to overmix)	 and it's difficult to mix the glaze ingredients together without getting sugar clumps...					
+"But it tastes really good!"""	2001-07-30T09:36:23Z	2001-07-30T09:36:23Z				
+1877	7762	11044	jean1490	more orange flavored than ginger	2001-07-30T09:36:23Z	2001-07-30T09:36:23Z
+1878	9978	7308	Kat2355	Let the slush sit for a couple minutes before serving.  The slush will become very thick and smooth.	2001-07-30T09:36:23Z	2001-07-30T09:36:23Z
+1879	9727	11199	Margaret	"""this is one beautiful tasting slice..so simple to make..was a big hit with my family..young and old ."		
+"Margaret.NZ"""	2001-07-30T09:36:23Z	2001-07-30T09:36:23Z				
+1880	170	11297	Jen T	Not being overly fond of celery I substituted shredded cabbage.  A tasty & easy dish. Reheated leftovers were great on toast for another quick meal :-)	2001-07-30T09:36:23Z	2001-07-30T09:36:23Z
+1883	10146	7802	Mark H.	Very good and easy to make.	2001-07-30T09:36:23Z	2001-07-30T09:36:23Z
+1885	9250	4470	Bergy	Tasty but too rich for me	2001-07-30T09:36:23Z	2001-07-30T09:36:23Z
+1889	8556	10823	Jennifer Mullen	This Recipe was wonderful. My family ate it up and then wanted more.	2001-07-31T12:06:53Z	2001-07-31T12:06:53Z

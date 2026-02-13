@@ -79,6 +79,10 @@ schema:recipeCategory a owl:DatatypeProperty ;
     rdfs:domain schema:Recipe ;
     rdfs:range xsd:string .
 
+schema:recipeIngredient a owl:ObjectProperty ;
+    rdfs:domain schema:Recipe ;
+    rdfs:range schema:Ingredient .
+
 schema:reviewCount a owl:DatatypeProperty ;
     rdfs:domain schema:Review ;
     rdfs:range xsd:integer .
@@ -88,12 +92,17 @@ schema:reviewRating a owl:DatatypeProperty ;
     rdfs:range xsd:string .
 
 schema:servesCuisine a owl:ObjectProperty ;
-    rdfs:domain schema:Restaurant ;
-    rdfs:range schema:Recipe .
+    rdfs:domain schema:Recipe,
+        schema:Restaurant ;
+    rdfs:range schema:Cuisine .
 
 schema:sugarContent a owl:DatatypeProperty ;
     rdfs:domain schema:Nutrition ;
     rdfs:range xsd:decimal .
+
+schema:Cuisine a owl:Class .
+
+schema:Ingredient a owl:Class .
 
 schema:Review a owl:Class .
 

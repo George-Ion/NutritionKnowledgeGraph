@@ -2,32 +2,52 @@
 ==================================================
 Task 4.1: Recipes with Mango
 ==================================================
-                                         Name
-                          Avocado-Mango Salsa
-                       Banana and Mango Bread
-Blackened Swordfish with Tropical Fruit Salsa
-                                 Chaat Masala
-                Charishma's Yummy Mango Halwa
-               Cherry Pecan Carrot Layer Cake
-                                Chicken Curry
-             Chicken with Curried Mango Sauce
-                     Chicken with Mango Salsa
-                       Children's Mango Chaat
+                                             Name
+                              Avocado-Mango Salsa
+                           Banana and Mango Bread
+    Blackened Swordfish with Tropical Fruit Salsa
+                    Charishma's Yummy Mango Halwa
+                   Cherry Pecan Carrot Layer Cake
+                 Chicken with Curried Mango Sauce
+                         Chicken with Mango Salsa
+                           Children's Mango Chaat
+     Citrus-Rubbed Veal Chops with Sunshine Salsa
+                  Coconut Pork and Chilli Chutney
+                         Di's Mango Mousse Trifle
+                               Fresh Fruit Frappe
+                        Fresh Salsa (A La Gringo)
+                                      Fruit Salsa
+Fruited Spinach Salad With Honey Mustard Dressing
+      Green Mango Salad With Cilantro Vinaigrette
+                               Hawaiian Fruit Dip
+                     Honey-Cheddar-Chutney Scones
+                  Kadukash ( Sindhi Mango Pickle)
+                         Major Greys Army Chutney
 
 ==================================================
 Task 4.2: Quick and Healthy Pies
 ==================================================
-                                          Name  Time
-                   5-Ingredient Strawberry Pie  PT5M
-                                  Apple Pie #3 PT35M
-                           Apricot Whip Pie #2   nan
-                                Blackberry Pie PT45M
-                             Blackberry Pie II   nan
-                   Blue Mountain Blueberry Pie PT45M
-    Buttermilk Pie With Gingersnap Crumb Crust PT50M
-  Caramel Apple Pie With Crunchy Crumb Topping PT55M
-                                    Cherry Pie PT55M
-Cranberry Apple Pie with Soft Gingersnap Crust   nan
+                                        Name  Time
+                 5-Ingredient Strawberry Pie  PT5M
+                                Apple Pie #3 PT35M
+                              Blackberry Pie PT45M
+  Buttermilk Pie With Gingersnap Crumb Crust PT50M
+Caramel Apple Pie With Crunchy Crumb Topping PT55M
+                                  Cherry Pie PT55M
+                         Cranberry Mince Pie PT30M
+                           Fresh Rhubarb Pie PT40M
+                              Grape-Nuts Pie PT50M
+                                Hush puppies  PT3M
+                         Lemon Cranberry Pie PT30M
+                         Low-Fat Pumpkin Pie PT55M
+                 Marions Best Ever Apple Pie PT50M
+             Marshmallow Meringue  Apple Pie PT40M
+               Old Fashioned Apple Cider Pie PT53M
+                                 Pumpkin Pie PT50M
+                            Raisin Cream Pie PT15M
+      Raisin Pie (Rosina Pie, "Funeral Pie") PT40M
+                                 Rhubarb Pie PT50M
+ Rice Case for Quiches or Pies (Gluten-Free) PT15M
 
 ==================================================
 Task 4.3: Chinese Restaurants New Delhi
@@ -51,22 +71,51 @@ Average_Cost
          2.0
 
 ==================================================
-Task 4.5: Easy Desserts (<300cal)
+Task 4.5: Easy Desserts (<300cal, after 2000)
 ==================================================
-                                           Name Calories
-                                   Cookie Icing      0.0
-                           Ice Cream Substitute      0.0
-                          Strawberries Romanoff      0.0
-                              frogs in the pond      0.0
-          Little-Bitty Coffee-Hazelnut Biscotti      8.0
-                       Julie's Chocolate Trifle     10.5
-                               Pumpkin Fritters     13.7
-                           Crystallized Flowers     17.2
-                              Strawberry Coulis     24.7
-Cream Cheese Crosses (icing for Hot Cross Buns)     29.2
+                    Name Calories                                                                                                               Image
+    Ice Cream Substitute      0.0                                                                                                                    
+       frogs in the pond      0.0 https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/11/56/4/picalRHtl.jpg
+Julie's Chocolate Trifle     10.5                                                                                                                    
+        Pumpkin Fritters     13.7                                                                                                                    
+    Crystallized Flowers     17.2                                                                                                                    
 
 ==================================================
-Task 4.6: Count of Recipes with Nutrition Information
+Task 4.6: Top Beverages (Sentiment)
 ==================================================
-count
- 9674
+                                   Name PrepTime Sugar SentimentSample
+                  Instant Coffee Kahlua     PT2H 602.0        positive
+                          Best Lemonade     PT5M  77.2        positive
+               Elly May's Wedding Punch     PT3H  50.2        positive
+Copycat Coffee House Whipped Cappuccino      nan  40.4        positive
+                        Champagne Punch      nan  38.1        positive
+                    Bobbing Apple Punch      nan  30.6        positive
+                          Hot Cocoa Mix      nan  28.7        positive
+                    Strawberry Lemonade      nan  22.8        positive
+                          Hot Cocoa Mix      nan  10.2        positive
+                          Coffee Frappe      nan   9.5        positive
+
+==================================================
+Task 4.7: High Protein Recipes
+==================================================
+                    Name Protein  Cuisine
+   Hot Chocolate Dry Mix  1122.6      N/A
+ Cajun Deep Fried Turkey   931.7    Cajun
+ Cajun Deep Fried Turkey   931.7     Meat
+BBQ Spicy Sirloin Steaks   789.0      N/A
+      white wine sauce")   735.1 European
+    Black Beans and Rice   641.2      N/A
+   Bayrischer Leberkaese   597.8 European
+Reno Red Chili Con Carne   596.4      N/A
+   Coronation Chicken II   518.6 European
+   Coronation Chicken II   518.6     Meat
+
+==================================================
+Task 4.8: Top Healthy (NDS Score)
+==================================================
+                    Name    NDS Protein Fiber Sugar
+ Cajun Deep Fried Turkey 944.00   931.7  11.4   2.4
+    Black Beans and Rice 829.30   641.2 181.8  42.3
+BBQ Spicy Sirloin Steaks 789.20   789.0   1.2   0.8
+      white wine sauce") 734.50   735.1  24.0  18.3
+   Bayrischer Leberkaese 590.80   597.8   4.0   6.5

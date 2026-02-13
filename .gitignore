@@ -1,1 +1,17 @@
-data/
+# Ignore large original data files (keep samples)
+data/Nutrition.csv
+data/Recipes.csv
+data/Restaurants.csv
+data/Reviews.txt
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Environment
+.env
+venv/
