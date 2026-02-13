@@ -43,9 +43,6 @@ Implemented 8 competency questions:
 | File | Description |
 |------|-------------|
 | `Assignment1.ipynb` | Main Jupyter notebook with all code |
-| `KEN4256-structured-KG-12.ttl` | Structured KG (recipes, nutrition, restaurants) |
-| `KEN4256-unstructured-KG-12.ttl` | Unstructured KG (reviews with sentiment) |
-| `KEN4256-integrated-KG-12.ttl` | Merged integrated KG |
 | `SPARQL_Results.txt` | Query results for all competency questions |
 | `data/` | Sample data files (first 1000 entries) |
 
@@ -61,5 +58,4 @@ The `data/` folder contains the first 1000 entries from:
 2. Run all cells in `Assignment1.ipynb`
 3. Output files will be generated in the same directory
 
-## Authors
-Team 12 - KEN4256 Building and Mining Knowledge Graphs
+
