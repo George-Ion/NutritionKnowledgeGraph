@@ -1,4 +1,4 @@
-# Food & Nutrition Knowledge Graph - KEN4256 Assignment 1 (Team 12)
+# Food & Nutrition Knowledge Graph - Assignment 1 
 
 ## Project Overview
 This project builds a **Knowledge Graph** for food, nutrition, recipes, and restaurants using RDF and Linked Data principles. The KG integrates structured data (CSV files), unstructured data (reviews with NLP), and external knowledge from Wikidata.
